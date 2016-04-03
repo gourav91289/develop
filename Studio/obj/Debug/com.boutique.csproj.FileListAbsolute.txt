@@ -374,3 +374,6 @@ E:\Personal Projects\Boutique Live\Studio\obj\Debug\com.boutique.exe.manifest
 E:\Personal Projects\Boutique Live\Studio\obj\Debug\com.boutique.application
 E:\Personal Projects\Boutique Live\Studio\obj\Debug\com.boutique.exe
 E:\Personal Projects\Boutique Live\Studio\obj\Debug\com.boutique.pdb
+E:\Personal Projects\Studio Live\Studio\bin\Debug\com.boutique.exe.config
+E:\Personal Projects\Studio Live\Studio\obj\Debug\com.boutique.exe
+E:\Personal Projects\Studio Live\Studio\obj\Debug\com.boutique.pdb
