@@ -1,0 +1,16 @@
+D:\Projects\EnityProject\Studio.Data\bin\Debug\Studio.Data.dll.config
+D:\Projects\EnityProject\Studio.Data\bin\Debug\Studio.Data.dll
+D:\Projects\EnityProject\Studio.Data\bin\Debug\Studio.Data.pdb
+D:\Projects\EnityProject\Studio.Data\bin\Debug\EntityFramework.dll
+D:\Projects\EnityProject\Studio.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\EnityProject\Studio.Data\bin\Debug\Repository.dll
+D:\Projects\EnityProject\Studio.Data\bin\Debug\Studio.Entity.dll
+D:\Projects\EnityProject\Studio.Data\bin\Debug\Repository.pdb
+D:\Projects\EnityProject\Studio.Data\bin\Debug\Studio.Entity.pdb
+D:\Projects\EnityProject\Studio.Data\bin\Debug\EntityFramework.xml
+D:\Projects\EnityProject\Studio.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\EnityProject\Studio.Data\obj\Debug\Studio.Data.csprojResolveAssemblyReference.cache
+D:\Projects\EnityProject\Studio.Data\obj\Debug\Studio.Data.dll
+D:\Projects\EnityProject\Studio.Data\obj\Debug\Studio.Data.pdb
+D:\Projects\EnityProject\Studio.Data\obj\Debug\com.Studio.Data.Migrations.IntialCreate.resources
+D:\Projects\EnityProject\Studio.Data\obj\Debug\Studio.Data.csproj.GenerateResource.Cache

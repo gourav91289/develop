@@ -1,0 +1,39 @@
+D:\DesktopApp\Personal\Studio\Studio.GlobalResource\bin\Debug\Studio.GlobalResource.dll
+D:\DesktopApp\Personal\Studio\Studio.GlobalResource\bin\Debug\Studio.GlobalResource.pdb
+D:\DesktopApp\Personal\Studio\Studio.GlobalResource\obj\Debug\com.boutique.GlobalResource.AppSettings.resources
+D:\DesktopApp\Personal\Studio\Studio.GlobalResource\obj\Debug\com.boutique.GlobalResource.Strings.NamedValue.resources
+D:\DesktopApp\Personal\Studio\Studio.GlobalResource\obj\Debug\com.boutique.GlobalResource.Strings.QueryStringKeys.resources
+D:\DesktopApp\Personal\Studio\Studio.GlobalResource\obj\Debug\com.boutique.GlobalResource.WebService.WebServiceEndPoints.resources
+D:\DesktopApp\Personal\Studio\Studio.GlobalResource\obj\Debug\com.boutique.GlobalResource.csproj.GenerateResource.Cache
+D:\DesktopApp\Personal\Studio\Studio.GlobalResource\obj\Debug\Studio.GlobalResource.dll
+D:\DesktopApp\Personal\Studio\Studio.GlobalResource\obj\Debug\Studio.GlobalResource.pdb
+D:\DesktopApp\Personal\Studio\Studio.GlobalResource\obj\Debug\com.boutique.GlobalResource.csprojResolveAssemblyReference.cache
+E:\Personal\Studio_23_Feb\Studio.GlobalResource\bin\Debug\Studio.GlobalResource.dll
+E:\Personal\Studio_23_Feb\Studio.GlobalResource\bin\Debug\Studio.GlobalResource.pdb
+E:\Personal\Studio_23_Feb\Studio.GlobalResource\obj\Debug\com.boutique.GlobalResource.csprojResolveAssemblyReference.cache
+E:\Personal\Studio_23_Feb\Studio.GlobalResource\obj\Debug\com.boutique.GlobalResource.AppSettings.resources
+E:\Personal\Studio_23_Feb\Studio.GlobalResource\obj\Debug\com.boutique.GlobalResource.Strings.NamedValue.resources
+E:\Personal\Studio_23_Feb\Studio.GlobalResource\obj\Debug\com.boutique.GlobalResource.Strings.QueryStringKeys.resources
+E:\Personal\Studio_23_Feb\Studio.GlobalResource\obj\Debug\com.boutique.GlobalResource.WebService.WebServiceEndPoints.resources
+E:\Personal\Studio_23_Feb\Studio.GlobalResource\obj\Debug\com.boutique.GlobalResource.csproj.GenerateResource.Cache
+E:\Personal\Studio_23_Feb\Studio.GlobalResource\obj\Debug\Studio.GlobalResource.dll
+E:\Personal\Studio_23_Feb\Studio.GlobalResource\obj\Debug\Studio.GlobalResource.pdb
+E:\Personal Projects\Studio_23_Feb\Studio.GlobalResource\bin\Debug\Studio.GlobalResource.dll
+E:\Personal Projects\Studio_23_Feb\Studio.GlobalResource\bin\Debug\Studio.GlobalResource.pdb
+E:\Personal Projects\Studio_23_Feb\Studio.GlobalResource\obj\Debug\com.boutique.GlobalResource.csprojResolveAssemblyReference.cache
+E:\Personal Projects\Studio_23_Feb\Studio.GlobalResource\obj\Debug\com.boutique.GlobalResource.AppSettings.resources
+E:\Personal Projects\Studio_23_Feb\Studio.GlobalResource\obj\Debug\com.boutique.GlobalResource.Strings.NamedValue.resources
+E:\Personal Projects\Studio_23_Feb\Studio.GlobalResource\obj\Debug\com.boutique.GlobalResource.Strings.QueryStringKeys.resources
+E:\Personal Projects\Studio_23_Feb\Studio.GlobalResource\obj\Debug\com.boutique.GlobalResource.WebService.WebServiceEndPoints.resources
+E:\Personal Projects\Studio_23_Feb\Studio.GlobalResource\obj\Debug\com.boutique.GlobalResource.csproj.GenerateResource.Cache
+E:\Personal Projects\Studio_23_Feb\Studio.GlobalResource\obj\Debug\Studio.GlobalResource.dll
+E:\Personal Projects\Studio_23_Feb\Studio.GlobalResource\obj\Debug\Studio.GlobalResource.pdb
+E:\Personal Projects\Boutique Live\Studio.GlobalResource\bin\Debug\Studio.GlobalResource.dll
+E:\Personal Projects\Boutique Live\Studio.GlobalResource\bin\Debug\Studio.GlobalResource.pdb
+E:\Personal Projects\Boutique Live\Studio.GlobalResource\obj\Debug\com.boutique.GlobalResource.AppSettings.resources
+E:\Personal Projects\Boutique Live\Studio.GlobalResource\obj\Debug\com.boutique.GlobalResource.Strings.NamedValue.resources
+E:\Personal Projects\Boutique Live\Studio.GlobalResource\obj\Debug\com.boutique.GlobalResource.Strings.QueryStringKeys.resources
+E:\Personal Projects\Boutique Live\Studio.GlobalResource\obj\Debug\com.boutique.GlobalResource.WebService.WebServiceEndPoints.resources
+E:\Personal Projects\Boutique Live\Studio.GlobalResource\obj\Debug\com.boutique.GlobalResource.csproj.GenerateResource.Cache
+E:\Personal Projects\Boutique Live\Studio.GlobalResource\obj\Debug\Studio.GlobalResource.dll
+E:\Personal Projects\Boutique Live\Studio.GlobalResource\obj\Debug\Studio.GlobalResource.pdb

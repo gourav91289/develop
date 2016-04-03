@@ -1,0 +1,24 @@
+D:\DesktopApp\Personal\Studio\DropDownCustomColorPicker\bin\Release\CustomColorPicker.dll
+D:\DesktopApp\Personal\Studio\DropDownCustomColorPicker\obj\Release\CustomColorPicker.g.cs
+D:\DesktopApp\Personal\Studio\DropDownCustomColorPicker\obj\Release\CustomColorSelector.g.cs
+D:\DesktopApp\Personal\Studio\DropDownCustomColorPicker\obj\Release\GeneratedInternalTypeHelper.g.cs
+D:\DesktopApp\Personal\Studio\DropDownCustomColorPicker\obj\Release\CustomColorPicker_MarkupCompile.cache
+D:\DesktopApp\Personal\Studio\DropDownCustomColorPicker\obj\Release\CustomColorPicker_MarkupCompile.lref
+D:\DesktopApp\Personal\Studio\DropDownCustomColorPicker\obj\Release\CustomColorPicker.baml
+D:\DesktopApp\Personal\Studio\DropDownCustomColorPicker\obj\Release\CustomColorSelector.baml
+D:\DesktopApp\Personal\Studio\DropDownCustomColorPicker\obj\Release\CustomColorPicker.g.resources
+D:\DesktopApp\Personal\Studio\DropDownCustomColorPicker\obj\Release\DropDownCustomColorPicker.Properties.Resources.resources
+D:\DesktopApp\Personal\Studio\DropDownCustomColorPicker\obj\Release\DropDownCustomColorPicker.csproj.GenerateResource.Cache
+D:\DesktopApp\Personal\Studio\DropDownCustomColorPicker\obj\Release\CustomColorPicker.dll
+E:\Personal Projects\Studio_23_Feb\DropDownCustomColorPicker\bin\Release\CustomColorPicker.dll
+E:\Personal Projects\Studio_23_Feb\DropDownCustomColorPicker\obj\Release\CustomColorPicker.g.cs
+E:\Personal Projects\Studio_23_Feb\DropDownCustomColorPicker\obj\Release\CustomColorSelector.g.cs
+E:\Personal Projects\Studio_23_Feb\DropDownCustomColorPicker\obj\Release\GeneratedInternalTypeHelper.g.cs
+E:\Personal Projects\Studio_23_Feb\DropDownCustomColorPicker\obj\Release\CustomColorPicker_MarkupCompile.cache
+E:\Personal Projects\Studio_23_Feb\DropDownCustomColorPicker\obj\Release\CustomColorPicker_MarkupCompile.lref
+E:\Personal Projects\Studio_23_Feb\DropDownCustomColorPicker\obj\Release\CustomColorPicker.baml
+E:\Personal Projects\Studio_23_Feb\DropDownCustomColorPicker\obj\Release\CustomColorSelector.baml
+E:\Personal Projects\Studio_23_Feb\DropDownCustomColorPicker\obj\Release\CustomColorPicker.g.resources
+E:\Personal Projects\Studio_23_Feb\DropDownCustomColorPicker\obj\Release\DropDownCustomColorPicker.Properties.Resources.resources
+E:\Personal Projects\Studio_23_Feb\DropDownCustomColorPicker\obj\Release\DropDownCustomColorPicker.csproj.GenerateResource.Cache
+E:\Personal Projects\Studio_23_Feb\DropDownCustomColorPicker\obj\Release\CustomColorPicker.dll

@@ -1,0 +1,9 @@
+D:\DesktopApp\liveStudio7\Studio\Studio.DropDownMultiSelect\bin\Release\MultiSelect.dll
+D:\DesktopApp\liveStudio7\Studio\Studio.DropDownMultiSelect\obj\Release\com.levelsbeyond.DropDownMultiSelect.csprojResolveAssemblyReference.cache
+D:\DesktopApp\liveStudio7\Studio\Studio.DropDownMultiSelect\obj\Release\CustomMultiSelect.g.cs
+D:\DesktopApp\liveStudio7\Studio\Studio.DropDownMultiSelect\obj\Release\GeneratedInternalTypeHelper.g.cs
+D:\DesktopApp\liveStudio7\Studio\Studio.DropDownMultiSelect\obj\Release\MultiSelect_MarkupCompile.cache
+D:\DesktopApp\liveStudio7\Studio\Studio.DropDownMultiSelect\obj\Release\MultiSelect_MarkupCompile.lref
+D:\DesktopApp\liveStudio7\Studio\Studio.DropDownMultiSelect\obj\Release\CustomMultiSelect.baml
+D:\DesktopApp\liveStudio7\Studio\Studio.DropDownMultiSelect\obj\Release\MultiSelect.g.resources
+D:\DesktopApp\liveStudio7\Studio\Studio.DropDownMultiSelect\obj\Release\MultiSelect.dll

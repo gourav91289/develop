@@ -1,0 +1,271 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AudioStream" xml:space="preserve">
+    <value>inventory/audios/{0}/proxy/raw?__sessionKey={1}</value>
+    <comment>inventory/audios/{audioId}/proxy/raw?__sessionKey={sessionKey}</comment>
+  </data>
+  <data name="GetSingleAsset" xml:space="preserve">
+    <value>inventory/{0}/{1}</value>
+    <comment>{assetType}/{assetId}</comment>
+  </data>
+  <data name="ImageStream" xml:space="preserve">
+    <value>inventory/images/{0}/proxy/raw?__sessionKey={1}</value>
+    <comment>inventory/images/{imageId}/proxy/raw?__sessionKey={sessionKey}</comment>
+  </data>
+  <data name="InventorySearch" xml:space="preserve">
+    <value>inventory/search</value>
+  </data>
+  <data name="Login" xml:space="preserve">
+    <value>security/users/login</value>
+  </data>
+  <data name="Logout" xml:space="preserve">
+    <value>security/users/logout</value>
+  </data>
+  <data name="MetaDataPropertiesAll" xml:space="preserve">
+    <value>metadata/properties</value>
+  </data>
+  <data name="SavedFilters" xml:space="preserve">
+    <value>search/saved/version/{0}</value>
+  </data>
+  <data name="SaveSearchFilters" xml:space="preserve">
+    <value>search/saved</value>
+  </data>
+  <data name="SelectedPreferences" xml:space="preserve">
+    <value>user/preferences/{0}</value>
+  </data>
+  <data name="VideoClipStream" xml:space="preserve">
+    <value>inventory/videos/{0}/secureStreamingUrl</value>
+    <comment>{videoId or clipId}</comment>
+  </data>
+  <data name="WorkflowExecutions" xml:space="preserve">
+    <value>workflows/executions</value>
+  </data>
+  <data name="DeleteSavedFilter" xml:space="preserve">
+    <value>search/saved</value>
+    <comment>use delete httpverb</comment>
+  </data>
+  <data name="FileSystemAssetFilePaths" xml:space="preserve">
+    <value>filesystem/assetFilePaths</value>
+  </data>
+  <data name="ChangePassword" xml:space="preserve">
+    <value>security/users/password</value>
+  </data>
+  <data name="GetGroupProperties" xml:space="preserve">
+    <value>metadata/groups/{0}/properties</value>
+    <comment>metadata/groups/{GroupdID}/properties</comment>
+  </data>
+  <data name="GetGroups" xml:space="preserve">
+    <value>metadata/groups?assetId={0}&amp;assetType={1}</value>
+    <comment>reachengine/api/metadata/groups?assetId=assetId&amp;assetType=assetType</comment>
+  </data>
+  <data name="MetadataGroupProperties" xml:space="preserve">
+    <value>metadata/groups/{0}/properties</value>
+    <comment>metadata/groups/{GroupdID}/properties</comment>
+  </data>
+  <data name="GetSingleAssetMetadata" xml:space="preserve">
+    <value>inventory/{0}/{1}/metadata</value>
+    <comment>inventory/images/4080/metadata</comment>
+  </data>
+  <data name="WorkflowMediaItem" xml:space="preserve">
+    <value>workflows?fetchLimit=100&amp;includeArchived=false&amp;includeDisabled=false&amp;includeGlobal=false&amp;{0}&amp;userCanExecuteOnly=true</value>
+    <comment>workflows?
+fetchLimit=100&amp;includeArchived=false&amp;includeDisabled=false&amp;includ
+eGlobal=false&amp;qualifier={image.4080}&amp;userCanExecuteOnly=true</comment>
+  </data>
+  <data name="WorkflowDynamicProperties" xml:space="preserve">
+    <value>workflows/{0}/params</value>
+    <comment>http://45.56.67.21:8080/reachengine/api/workflows/{WorkflowID}/params</comment>
+  </data>
+  <data name="WorkFlowHasPickListTrue" xml:space="preserve">
+    <value>workflows/{0}/picklistoptions/{1}</value>
+    <comment>workflows/{WorkFlowId}/picklistoptions/{PropertyName}</comment>
+  </data>
+  <data name="GetFileDirectory" xml:space="preserve">
+    <value>filesystem/vfs?path=</value>
+    <comment>http://45.56.67.21:8080/reachengine/api/filesystem/vfs?path=   
+Where path is a url encoded string of the path.  To start pass in / or %2F</comment>
+  </data>
+  <data name="StartWorkFlow" xml:space="preserve">
+    <value>workflows/{0}/start</value>
+    <comment>POST
+
+http://45.56.67.21:8080/reachengine/api/workflows/{WorkFlowID}/start
+
+with the body of 
+
+{
+  "subject":"{AssetType}.{ID}",
+  "paramName":"value",
+  "paramName":"value"
+}
+
+Where AssetType would be like image and id would be 336, so image.336, Then just like each parameter name with it's value.
+</comment>
+  </data>
+  <data name="TaskCreateNewCollection" xml:space="preserve">
+    <value>inventory/collections/</value>
+    <comment>http://45.56.67.21:8080/reachengine/api/inventory/collections/</comment>
+  </data>
+  <data name="GetServerProperty" xml:space="preserve">
+    <value>v1/system/config/{0}</value>
+    <comment>http://45.56.67.21:8080/reachengine/api/v1/system/config/{propertyName}</comment>
+  </data>
+  <data name="GetWorkFlowExecution" xml:space="preserve">
+    <value>workflows/executions/{0}</value>
+    <comment>http://45.56.67.21:8080/reachengine/api/workflows/executions/{id}</comment>
+  </data>
+  <data name="GetSchemaJson" xml:space="preserve">
+    <value>v1/metadata/prelude/schema.json</value>
+    <comment>http://45.56.67.21:8080/reachengine/api/v1/metadata/
+prelude/schema.json</comment>
+  </data>
+  <data name="GetIngestCategories" xml:space="preserve">
+    <value>categories/</value>
+    <comment>http://45.56.67.21:8080/reachengine/api/categories/</comment>
+  </data>
+  <data name="GetIngestWorkFlowLookUpListItems" xml:space="preserve">
+    <value>v1/meta/lookup/{0}</value>
+    <comment>http://45.56.67.21:8080/reachengine/api/v1/meta/lookup/{picklistId}</comment>
+  </data>
+  <data name="GetIngestWorkFlowPickListItems" xml:space="preserve">
+    <value>v1/meta/picklist/{0}</value>
+    <comment>http://45.56.67.21:8080/reachengine/api/v1/meta/picklist/{picklistId}</comment>
+  </data>
+  <data name="GetIngestFilePath" xml:space="preserve">
+    <value>v1/file/scratch/uniqueDirectory?endpoint=windows</value>
+    <comment>http://45.56.67.21:8080/reachengine/api/v1/file/scratch/uniqueDirectory?endpoint=windows</comment>
+  </data>
+  <data name="WorkFlowItems" xml:space="preserve">
+    <value>workflows?fetchLimit=10000&amp;userCanExecuteOnly=false&amp;includeDisabled=false&amp;includeArchived=false&amp;includeGlobal=true</value>
+    <comment>http://45.56.67.21:8080/reachengine/api/workflows?fetchLimit=10000&amp;userCanExecuteOnly=false&amp;includeDisabled=false&amp;includeArchived=false&amp;includeGlobal=true</comment>
+  </data>
+  <data name="GlobalWorkFlow" xml:space="preserve">
+    <value>workflows?fetchLimit=100&amp;includeArchived=false&amp;includeDisabled=false&amp;includeGlobal=true&amp;userCanExecuteOnly=true</value>
+    <comment>http://45.56.67.21:8080/reachengine/api/workflows?fetchLimit=100&amp;includeArchived=false&amp;includeDisabled=false&amp;includeGlobal=true&amp;userCanExecuteOnly=true</comment>
+  </data>
+  <data name="GetIngestForms" xml:space="preserve">
+    <value>ingest-forms</value>
+    <comment>/reachengine/api/ingest-forms</comment>
+  </data>
+  <data name="IngestFormMetadataProperties" xml:space="preserve">
+    <value>ingest-forms/{0}/metadata-properties?limit=1000&amp;offset=0</value>
+    <comment>reachengine/api/ingest-forms/{ingestFormId}/metadata-properties?limit=1000&amp;offset=0</comment>
+  </data>
+</root>

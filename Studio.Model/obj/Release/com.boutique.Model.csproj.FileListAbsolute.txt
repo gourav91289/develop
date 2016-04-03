@@ -1,0 +1,32 @@
+D:\DesktopApp\Personal\Studio\Studio.Model\bin\Release\Studio.Model.dll
+D:\DesktopApp\Personal\Studio\Studio.Model\bin\Release\Studio.Model.pdb
+D:\DesktopApp\Personal\Studio\Studio.Model\bin\Release\Repository.dll
+D:\DesktopApp\Personal\Studio\Studio.Model\bin\Release\Studio.Entity.dll
+D:\DesktopApp\Personal\Studio\Studio.Model\bin\Release\EntityFramework.dll
+D:\DesktopApp\Personal\Studio\Studio.Model\bin\Release\Newtonsoft.Json.dll
+D:\DesktopApp\Personal\Studio\Studio.Model\bin\Release\Studio.Helper.dll
+D:\DesktopApp\Personal\Studio\Studio.Model\bin\Release\Repository.pdb
+D:\DesktopApp\Personal\Studio\Studio.Model\bin\Release\Studio.Entity.pdb
+D:\DesktopApp\Personal\Studio\Studio.Model\bin\Release\EntityFramework.xml
+D:\DesktopApp\Personal\Studio\Studio.Model\bin\Release\Newtonsoft.Json.xml
+D:\DesktopApp\Personal\Studio\Studio.Model\bin\Release\Studio.Helper.pdb
+D:\DesktopApp\Personal\Studio\Studio.Model\obj\Release\com.boutique.Model.csprojResolveAssemblyReference.cache
+D:\DesktopApp\Personal\Studio\Studio.Model\obj\Release\Studio.Model.dll
+D:\DesktopApp\Personal\Studio\Studio.Model\obj\Release\Studio.Model.pdb
+E:\Personal Projects\Studio_23_Feb\Studio.Model\bin\Release\Studio.Model.dll
+E:\Personal Projects\Studio_23_Feb\Studio.Model\bin\Release\Studio.Model.pdb
+E:\Personal Projects\Studio_23_Feb\Studio.Model\bin\Release\Repository.dll
+E:\Personal Projects\Studio_23_Feb\Studio.Model\bin\Release\Studio.Entity.dll
+E:\Personal Projects\Studio_23_Feb\Studio.Model\bin\Release\EntityFramework.dll
+E:\Personal Projects\Studio_23_Feb\Studio.Model\bin\Release\CapturedImages.dll
+E:\Personal Projects\Studio_23_Feb\Studio.Model\bin\Release\Newtonsoft.Json.dll
+E:\Personal Projects\Studio_23_Feb\Studio.Model\bin\Release\Studio.Helper.dll
+E:\Personal Projects\Studio_23_Feb\Studio.Model\bin\Release\WebCam_Capture.dll
+E:\Personal Projects\Studio_23_Feb\Studio.Model\bin\Release\Repository.pdb
+E:\Personal Projects\Studio_23_Feb\Studio.Model\bin\Release\Studio.Entity.pdb
+E:\Personal Projects\Studio_23_Feb\Studio.Model\bin\Release\EntityFramework.xml
+E:\Personal Projects\Studio_23_Feb\Studio.Model\bin\Release\Newtonsoft.Json.xml
+E:\Personal Projects\Studio_23_Feb\Studio.Model\bin\Release\Studio.Helper.pdb
+E:\Personal Projects\Studio_23_Feb\Studio.Model\obj\Release\com.boutique.Model.csprojResolveAssemblyReference.cache
+E:\Personal Projects\Studio_23_Feb\Studio.Model\obj\Release\Studio.Model.dll
+E:\Personal Projects\Studio_23_Feb\Studio.Model\obj\Release\Studio.Model.pdb

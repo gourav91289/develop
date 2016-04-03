@@ -1,0 +1,18 @@
+D:\DesktopApp\Personal\Studio\Repository\bin\Release\Repository.dll.config
+D:\DesktopApp\Personal\Studio\Repository\bin\Release\Repository.dll
+D:\DesktopApp\Personal\Studio\Repository\bin\Release\Repository.pdb
+D:\DesktopApp\Personal\Studio\Repository\bin\Release\EntityFramework.dll
+D:\DesktopApp\Personal\Studio\Repository\bin\Release\EntityFramework.SqlServer.dll
+D:\DesktopApp\Personal\Studio\Repository\bin\Release\EntityFramework.xml
+D:\DesktopApp\Personal\Studio\Repository\bin\Release\EntityFramework.SqlServer.xml
+D:\DesktopApp\Personal\Studio\Repository\obj\Release\Repository.dll
+D:\DesktopApp\Personal\Studio\Repository\obj\Release\Repository.pdb
+E:\Personal Projects\Studio_23_Feb\Repository\bin\Release\Repository.dll.config
+E:\Personal Projects\Studio_23_Feb\Repository\bin\Release\Repository.dll
+E:\Personal Projects\Studio_23_Feb\Repository\bin\Release\Repository.pdb
+E:\Personal Projects\Studio_23_Feb\Repository\bin\Release\EntityFramework.dll
+E:\Personal Projects\Studio_23_Feb\Repository\bin\Release\EntityFramework.SqlServer.dll
+E:\Personal Projects\Studio_23_Feb\Repository\bin\Release\EntityFramework.xml
+E:\Personal Projects\Studio_23_Feb\Repository\bin\Release\EntityFramework.SqlServer.xml
+E:\Personal Projects\Studio_23_Feb\Repository\obj\Release\Repository.dll
+E:\Personal Projects\Studio_23_Feb\Repository\obj\Release\Repository.pdb

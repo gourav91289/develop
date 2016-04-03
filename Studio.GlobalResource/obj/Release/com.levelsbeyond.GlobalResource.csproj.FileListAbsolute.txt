@@ -1,0 +1,9 @@
+D:\DesktopApp\liveStudio7\Studio\Studio.GlobalResource\bin\Release\Studio.GlobalResource.dll
+D:\DesktopApp\liveStudio7\Studio\Studio.GlobalResource\bin\Release\Studio.GlobalResource.pdb
+D:\DesktopApp\liveStudio7\Studio\Studio.GlobalResource\obj\Release\com.levelsbeyond.GlobalResource.AppSettings.resources
+D:\DesktopApp\liveStudio7\Studio\Studio.GlobalResource\obj\Release\com.levelsbeyond.GlobalResource.Strings.NamedValue.resources
+D:\DesktopApp\liveStudio7\Studio\Studio.GlobalResource\obj\Release\com.levelsbeyond.GlobalResource.Strings.QueryStringKeys.resources
+D:\DesktopApp\liveStudio7\Studio\Studio.GlobalResource\obj\Release\com.levelsbeyond.GlobalResource.WebService.WebServiceEndPoints.resources
+D:\DesktopApp\liveStudio7\Studio\Studio.GlobalResource\obj\Release\com.levelsbeyond.GlobalResource.csproj.GenerateResource.Cache
+D:\DesktopApp\liveStudio7\Studio\Studio.GlobalResource\obj\Release\Studio.GlobalResource.dll
+D:\DesktopApp\liveStudio7\Studio\Studio.GlobalResource\obj\Release\Studio.GlobalResource.pdb

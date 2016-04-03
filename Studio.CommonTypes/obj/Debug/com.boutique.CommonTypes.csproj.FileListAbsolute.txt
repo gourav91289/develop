@@ -1,0 +1,16 @@
+D:\DesktopApp\Personal\Studio\Studio.CommonTypes\bin\Debug\Studio.CommonTypes.dll
+D:\DesktopApp\Personal\Studio\Studio.CommonTypes\bin\Debug\Studio.CommonTypes.pdb
+D:\DesktopApp\Personal\Studio\Studio.CommonTypes\obj\Debug\Studio.CommonTypes.dll
+D:\DesktopApp\Personal\Studio\Studio.CommonTypes\obj\Debug\Studio.CommonTypes.pdb
+E:\Personal\Studio_23_Feb\Studio.CommonTypes\bin\Debug\Studio.CommonTypes.dll
+E:\Personal\Studio_23_Feb\Studio.CommonTypes\bin\Debug\Studio.CommonTypes.pdb
+E:\Personal\Studio_23_Feb\Studio.CommonTypes\obj\Debug\Studio.CommonTypes.dll
+E:\Personal\Studio_23_Feb\Studio.CommonTypes\obj\Debug\Studio.CommonTypes.pdb
+E:\Personal Projects\Studio_23_Feb\Studio.CommonTypes\bin\Debug\Studio.CommonTypes.dll
+E:\Personal Projects\Studio_23_Feb\Studio.CommonTypes\bin\Debug\Studio.CommonTypes.pdb
+E:\Personal Projects\Studio_23_Feb\Studio.CommonTypes\obj\Debug\Studio.CommonTypes.dll
+E:\Personal Projects\Studio_23_Feb\Studio.CommonTypes\obj\Debug\Studio.CommonTypes.pdb
+E:\Personal Projects\Boutique Live\Studio.CommonTypes\bin\Debug\Studio.CommonTypes.dll
+E:\Personal Projects\Boutique Live\Studio.CommonTypes\bin\Debug\Studio.CommonTypes.pdb
+E:\Personal Projects\Boutique Live\Studio.CommonTypes\obj\Debug\Studio.CommonTypes.dll
+E:\Personal Projects\Boutique Live\Studio.CommonTypes\obj\Debug\Studio.CommonTypes.pdb

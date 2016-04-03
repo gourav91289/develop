@@ -1,0 +1,133 @@
+﻿<Window x:Name="LoginWindow"
+        x:Class="com.boutique.Views.Login"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:com.boutique.Views"
+        mc:Ignorable="d"
+        xmlns:UiHelper="clr-namespace:com.boutique.Common.UserInterfaceHelper"
+        xmlns:gif="http://wpfanimatedgif.codeplex.com"
+        UseLayoutRounding="False" WindowStartupLocation="CenterScreen" 
+        ResizeMode="NoResize" WindowStyle="None" 
+        HorizontalAlignment="Center" VerticalAlignment="Center"
+        Width="400" Height="300"
+        BorderBrush="Transparent" BorderThickness="0"
+        KeyDown="OnKeyDownHandler" Background="Transparent"
+        Icon="/com.boutique;component/Images/appicon.ico"
+        xmlns:UserControls="clr-namespace:com.boutique.Views.UserControls"  
+        Title="Login" DataContext="{Binding Source={StaticResource Locator}, Path=Login}">
+    <Window.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary
+                   Source="/com.boutique;component/Common/StandardStyles.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Window.Resources>
+    <!--<Grid>-->
+    <Border Background="#1B1B1C" BorderBrush="#434346" BorderThickness="2" CornerRadius="0">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="35"></RowDefinition>
+                    <RowDefinition Height="*"></RowDefinition>
+                </Grid.RowDefinitions>
+
+            <Border Background="#4E4E50" Grid.Row="0" >
+                <StackPanel Orientation="Horizontal" VerticalAlignment="Top" HorizontalAlignment="Right">
+                    <Image Cursor="Hand" Name="MinimizeSettingWindow"
+                           PreviewMouseLeftButtonDown="MinimizeSettingWindow_PreviewMouseLeftButtonDown"
+                           Source="/com.boutique;component/Images/win_minimize.png" Margin="0,10,0,0"
+                         Width="15" ToolTip="Minimize" HorizontalAlignment="Center" VerticalAlignment="Center"></Image>
+
+                    <Image Cursor="Hand" Name="CloseSettingWindow"
+                           PreviewMouseLeftButtonDown="CloseSettingWindow_PreviewMouseLeftButtonDown"
+                           Source="/com.boutique;component/Images/win_close.png" Margin="10,0,0,0"
+                         Width="18" ToolTip="Close" HorizontalAlignment="Center" VerticalAlignment="Center"></Image>
+
+                </StackPanel>
+            </Border>
+                
+            <StackPanel Orientation="Vertical" Grid.Row="1" HorizontalAlignment="Center" 
+                            VerticalAlignment="Center" Name="stackLogin">
+
+                    <TextBlock Text="Enter Login Details"   FontWeight="SemiBold"  TextAlignment="Center"                                
+                                Width="205" ClipToBounds="True" Margin="10,0,0,0"
+                                TextWrapping="Wrap" FontSize="20"  Foreground="White"                             
+                                FontFamily="Open Sans"></TextBlock>
+
+                <Border Background="#535355" BorderThickness="1" BorderBrush="#434346" CornerRadius="2" Width="250"
+                            Padding="5" Margin="0,10,0,0">
+                        <StackPanel Orientation="Horizontal">
+                            <Image Cursor="Hand" Source="/com.boutique;component/Images/male.png" 
+                               Width="18"  HorizontalAlignment="Center" VerticalAlignment="Center"></Image>
+
+                            <TextBox BorderThickness="0" Name="txtUserName"
+                                     Text="{Binding Path=UserName,Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"
+                                     BorderBrush="Transparent"
+                                     Background="Transparent" Width="205" ClipToBounds="True" Margin="10,0,0,0"
+                                   TextWrapping="Wrap" FontSize="14" TextAlignment="Left"                                   
+                                FontFamily="Open Sans" Foreground="#818183"></TextBox>
+                           
+                        </StackPanel>
+                    </Border>
+
+                <Border Background="#535355" BorderThickness="1" BorderBrush="#434346" CornerRadius="2" Width="250"
+                            Padding="5" Margin="0,10,0,0" Name="brdrFocusBorder">
+                        <StackPanel Orientation="Horizontal">
+                            <Image Cursor="Hand" Source="/com.boutique;component/Images/key.png" 
+                               Width="18"  HorizontalAlignment="Center" VerticalAlignment="Center"></Image>
+
+                            <TextBox BorderThickness="0" Name="txtFocusBorder"
+                                     Text="Enter Password"
+                                     BorderBrush="Transparent"
+                                     Background="Transparent" Width="205" ClipToBounds="True" Margin="10,0,0,0"                                    
+                                 Foreground="#818183" FontSize="14"
+                               FontFamily="Open Sans"></TextBox>
+
+                        </StackPanel>
+                    </Border>
+
+                <Border Background="#535355" BorderThickness="1" BorderBrush="#434346" CornerRadius="2" Width="250"
+                            Padding="5" Margin="0,10,0,0" Name="brderPasswordBorder" Visibility="Collapsed">
+                        <StackPanel Orientation="Horizontal">
+                            <Image Cursor="Hand" Source="/com.boutique;component/Images/key.png" 
+                               Width="18"  HorizontalAlignment="Center" VerticalAlignment="Center"></Image>
+
+                            <PasswordBox BorderThickness="0" Name="txtPasswordBorder"
+                                     UiHelper:CustomPasswordBox.BindPassword="True"
+                                     UiHelper:CustomPasswordBox.BoundPassword="{Binding Path=Password, Mode=TwoWay, 
+                                     UpdateSourceTrigger=PropertyChanged ,
+                                     NotifyOnValidationError=False, ValidatesOnDataErrors=False}"
+                                     BorderBrush="Transparent"
+                                     Background="Transparent" Width="205" ClipToBounds="True" Margin="10,0,0,0"                                    
+                               Foreground="WHite" FontSize="14"
+                               FontFamily="Open Sans"></PasswordBox>
+
+                        </StackPanel>
+                    </Border>
+
+                    <Button Name="btnLogin" Margin="0,10,0,0"
+                            Height="35"
+                            Background="#3088da" Width="{Binding ActualWidth, ElementName=stackLogin}"
+                            Style="{StaticResource BasicButton}"
+                            Foreground="White" HorizontalAlignment="Center" Content="Login"
+                            Click="btnLogin_Click" >
+                    </Button>
+
+                    <Image Name="imgLoginProcessing" Margin="0,10,0,0" Visibility="Collapsed"
+                                       gif:ImageBehavior.AnimatedSource="/com.boutique;component/Images/processing.gif"                                    
+                                   Width="30" VerticalAlignment="Center"></Image>                    
+                   
+
+                </StackPanel>
+
+            <Popup IsOpen="{Binding IsAlertOpen}" Height="300" Width="450" Name="AlertBox" PopupAnimation="Fade" VerticalOffset="50" 
+                HorizontalAlignment="Center" VerticalAlignment="Center" Placement="Center" AllowsTransparency="True" Panel.ZIndex="10">
+                <UserControls:AlertBox VerticalContentAlignment="Center" />
+            </Popup>
+
+        </Grid>
+        </Border>
+    <!--</Grid>-->
+</Window>

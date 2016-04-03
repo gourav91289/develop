@@ -1,0 +1,46 @@
+D:\DesktopApp\Personal\Studio\WebCam\bin\Debug\CapturedImages.dll
+D:\DesktopApp\Personal\Studio\WebCam\bin\Debug\CapturedImages.pdb
+D:\DesktopApp\Personal\Studio\WebCam\bin\Debug\WebCam_Capture.dll
+D:\DesktopApp\Personal\Studio\WebCam\obj\Debug\CapturedImages.csprojResolveAssemblyReference.cache
+D:\DesktopApp\Personal\Studio\WebCam\obj\Debug\CustomStitchingImage.g.cs
+D:\DesktopApp\Personal\Studio\WebCam\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\DesktopApp\Personal\Studio\WebCam\obj\Debug\CapturedImages_MarkupCompile.cache
+D:\DesktopApp\Personal\Studio\WebCam\obj\Debug\CapturedImages_MarkupCompile.lref
+D:\DesktopApp\Personal\Studio\WebCam\obj\Debug\CustomStitchingImage.baml
+D:\DesktopApp\Personal\Studio\WebCam\obj\Debug\CapturedImages.g.resources
+D:\DesktopApp\Personal\Studio\WebCam\obj\Debug\CapturedImages.dll
+D:\DesktopApp\Personal\Studio\WebCam\obj\Debug\CapturedImages.pdb
+E:\Personal\Studio_23_Feb\WebCam\bin\Debug\CapturedImages.dll
+E:\Personal\Studio_23_Feb\WebCam\bin\Debug\CapturedImages.pdb
+E:\Personal\Studio_23_Feb\WebCam\bin\Debug\WebCam_Capture.dll
+E:\Personal\Studio_23_Feb\WebCam\obj\Debug\CapturedImages.csprojResolveAssemblyReference.cache
+E:\Personal\Studio_23_Feb\WebCam\obj\Debug\CustomStitchingImage.g.cs
+E:\Personal\Studio_23_Feb\WebCam\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Personal\Studio_23_Feb\WebCam\obj\Debug\CapturedImages_MarkupCompile.cache
+E:\Personal\Studio_23_Feb\WebCam\obj\Debug\CapturedImages_MarkupCompile.lref
+E:\Personal\Studio_23_Feb\WebCam\obj\Debug\CustomStitchingImage.baml
+E:\Personal\Studio_23_Feb\WebCam\obj\Debug\CapturedImages.g.resources
+E:\Personal\Studio_23_Feb\WebCam\obj\Debug\CapturedImages.dll
+E:\Personal\Studio_23_Feb\WebCam\obj\Debug\CapturedImages.pdb
+E:\Personal Projects\Studio_23_Feb\WebCam\bin\Debug\CapturedImages.dll
+E:\Personal Projects\Studio_23_Feb\WebCam\bin\Debug\CapturedImages.pdb
+E:\Personal Projects\Studio_23_Feb\WebCam\obj\Debug\CapturedImages.csprojResolveAssemblyReference.cache
+E:\Personal Projects\Studio_23_Feb\WebCam\obj\Debug\CustomStitchingImage.g.cs
+E:\Personal Projects\Studio_23_Feb\WebCam\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Personal Projects\Studio_23_Feb\WebCam\obj\Debug\CapturedImages_MarkupCompile.cache
+E:\Personal Projects\Studio_23_Feb\WebCam\obj\Debug\CapturedImages_MarkupCompile.lref
+E:\Personal Projects\Studio_23_Feb\WebCam\obj\Debug\CustomStitchingImage.baml
+E:\Personal Projects\Studio_23_Feb\WebCam\obj\Debug\CapturedImages.g.resources
+E:\Personal Projects\Studio_23_Feb\WebCam\obj\Debug\CapturedImages.dll
+E:\Personal Projects\Studio_23_Feb\WebCam\obj\Debug\CapturedImages.pdb
+E:\Personal Projects\Boutique Live\WebCam\bin\Debug\CapturedImages.dll
+E:\Personal Projects\Boutique Live\WebCam\bin\Debug\CapturedImages.pdb
+E:\Personal Projects\Boutique Live\WebCam\obj\Debug\CapturedImages.csprojResolveAssemblyReference.cache
+E:\Personal Projects\Boutique Live\WebCam\obj\Debug\CustomStitchingImage.g.cs
+E:\Personal Projects\Boutique Live\WebCam\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Personal Projects\Boutique Live\WebCam\obj\Debug\CapturedImages_MarkupCompile.cache
+E:\Personal Projects\Boutique Live\WebCam\obj\Debug\CapturedImages_MarkupCompile.lref
+E:\Personal Projects\Boutique Live\WebCam\obj\Debug\CustomStitchingImage.baml
+E:\Personal Projects\Boutique Live\WebCam\obj\Debug\CapturedImages.g.resources
+E:\Personal Projects\Boutique Live\WebCam\obj\Debug\CapturedImages.dll
+E:\Personal Projects\Boutique Live\WebCam\obj\Debug\CapturedImages.pdb

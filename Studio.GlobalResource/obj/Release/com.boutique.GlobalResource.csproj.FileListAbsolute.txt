@@ -1,0 +1,18 @@
+D:\DesktopApp\Personal\Studio\Studio.GlobalResource\bin\Release\Studio.GlobalResource.dll
+D:\DesktopApp\Personal\Studio\Studio.GlobalResource\bin\Release\Studio.GlobalResource.pdb
+D:\DesktopApp\Personal\Studio\Studio.GlobalResource\obj\Release\com.boutique.GlobalResource.AppSettings.resources
+D:\DesktopApp\Personal\Studio\Studio.GlobalResource\obj\Release\com.boutique.GlobalResource.Strings.NamedValue.resources
+D:\DesktopApp\Personal\Studio\Studio.GlobalResource\obj\Release\com.boutique.GlobalResource.Strings.QueryStringKeys.resources
+D:\DesktopApp\Personal\Studio\Studio.GlobalResource\obj\Release\com.boutique.GlobalResource.WebService.WebServiceEndPoints.resources
+D:\DesktopApp\Personal\Studio\Studio.GlobalResource\obj\Release\com.boutique.GlobalResource.csproj.GenerateResource.Cache
+D:\DesktopApp\Personal\Studio\Studio.GlobalResource\obj\Release\Studio.GlobalResource.dll
+D:\DesktopApp\Personal\Studio\Studio.GlobalResource\obj\Release\Studio.GlobalResource.pdb
+E:\Personal Projects\Studio_23_Feb\Studio.GlobalResource\bin\Release\Studio.GlobalResource.dll
+E:\Personal Projects\Studio_23_Feb\Studio.GlobalResource\bin\Release\Studio.GlobalResource.pdb
+E:\Personal Projects\Studio_23_Feb\Studio.GlobalResource\obj\Release\com.boutique.GlobalResource.AppSettings.resources
+E:\Personal Projects\Studio_23_Feb\Studio.GlobalResource\obj\Release\com.boutique.GlobalResource.Strings.NamedValue.resources
+E:\Personal Projects\Studio_23_Feb\Studio.GlobalResource\obj\Release\com.boutique.GlobalResource.Strings.QueryStringKeys.resources
+E:\Personal Projects\Studio_23_Feb\Studio.GlobalResource\obj\Release\com.boutique.GlobalResource.WebService.WebServiceEndPoints.resources
+E:\Personal Projects\Studio_23_Feb\Studio.GlobalResource\obj\Release\com.boutique.GlobalResource.csproj.GenerateResource.Cache
+E:\Personal Projects\Studio_23_Feb\Studio.GlobalResource\obj\Release\Studio.GlobalResource.dll
+E:\Personal Projects\Studio_23_Feb\Studio.GlobalResource\obj\Release\Studio.GlobalResource.pdb

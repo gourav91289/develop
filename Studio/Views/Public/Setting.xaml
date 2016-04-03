@@ -1,0 +1,200 @@
+﻿<Window x:Name="SettingsWindow"
+        x:Class="com.boutique.Views.Setting"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:com.boutique.Views"
+        mc:Ignorable="d"
+        xmlns:UiHelper="clr-namespace:com.boutique.Common.UserInterfaceHelper"
+        xmlns:gif="http://wpfanimatedgif.codeplex.com"
+        UseLayoutRounding="False" WindowStartupLocation="CenterScreen" 
+        ResizeMode="NoResize" WindowStyle="None" 
+        HorizontalAlignment="Center" VerticalAlignment="Center"
+        MouseDown="Settings_MouseDown" Width="500" Height="375"
+        Icon="/com.boutique;component/Images/appicon.ico"
+        Title="Setting" Background="Transparent"
+        xmlns:UserControls="clr-namespace:com.boutique.Views.UserControls"  
+        IsEnabled="{Binding IsParentWindowEnabled}" 
+        DataContext="{Binding Source={StaticResource Locator}, Path=Main}">
+    <Border BorderThickness="1" BorderBrush="#434346">
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="35"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+            </Grid.RowDefinitions>
+
+            <Border Name="brdTop" Background="#4E4E50" Grid.Row="0" BorderBrush="#4E4E50" 
+                    BorderThickness="0,0,0,1" Padding="0,0,0,0">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition />
+                        <ColumnDefinition />
+                    </Grid.ColumnDefinitions>
+
+                    <StackPanel Orientation="Horizontal" VerticalAlignment="Bottom" 
+                                HorizontalAlignment="Right" Grid.Column="1" 
+                            ClipToBounds="True"
+                            >
+                        <Image Cursor="Hand" Name="MinimizeSettingWindow"
+                           PreviewMouseLeftButtonDown="MinimizeSettingWindow_PreviewMouseLeftButtonDown"
+                           Source="/com.boutique;component/Images/win_minimize.png" Margin="0,10,0,0"
+                         Width="20" ToolTip="Minimize" HorizontalAlignment="Right" VerticalAlignment="Center"></Image>
+
+                        <Image Cursor="Hand" Name="CloseSettingWindow"
+                           PreviewMouseLeftButtonDown="CloseSettingWindow_PreviewMouseLeftButtonDown"
+                           Source="/com.boutique;component/Images/win_close.png" Margin="10,0,0,0"
+                         Width="20" ToolTip="Close" HorizontalAlignment="Right" VerticalAlignment="Center"></Image>
+
+                        <Image Cursor="Hand" Name="LogoutSettingWindow"
+                           PreviewMouseLeftButtonDown="LogoutSettingWindow_PreviewMouseLeftButtonDown"
+                           Source="/com.boutique;component/Images/logout.png" Margin="10,0,0,0"
+                         Width="20" ToolTip="Logout" HorizontalAlignment="Right" VerticalAlignment="Center"></Image>
+
+                        <StackPanel DockPanel.Dock="Right" Orientation="Horizontal" 
+                                    HorizontalAlignment="Right" Margin="0,0,10,0">
+                            <Image Source="/com.boutique;component/Images/user-male.png" Width="16" Margin="10,0,0,0"/>
+
+                            <Menu FontSize="14">
+                                <Menu.Resources>
+                                    <Style TargetType="{x:Type Menu}">
+                                        <Setter Property="OverridesDefaultStyle" Value="True" />
+                                        <Setter Property="SnapsToDevicePixels" Value="True" />
+                                        <Setter Property="Foreground" Value="Black"></Setter>
+                                        <Setter Property="Template">
+                                            <Setter.Value>
+                                                <ControlTemplate TargetType="{x:Type Menu}">
+                                                    <Border BorderThickness="0,0,0,0">
+                                                        <StackPanel ClipToBounds="True" Orientation="Horizontal" IsItemsHost="True" />
+                                                    </Border>
+                                                </ControlTemplate>
+                                            </Setter.Value>
+                                        </Setter>
+                                    </Style>
+                                </Menu.Resources>
+                                <MenuItem Header="{Binding LoggedUserFullName}" VerticalAlignment="Center" 
+                                   Foreground="White" FontWeight="Normal">
+                                    <MenuItem Header="Change Password" Foreground="Black" Height="30" Click="OpenChangePasswordPopUp"  />
+                                    <Separator Foreground="DarkGray" Height="2"/>
+                                    <MenuItem Header="Sign Out" Foreground="Black" Height="30" Command="{Binding OnSignOut}"/>
+                                    <MenuItem Header="About" Foreground="Black" Height="30" Command="{Binding About}"/>
+                                </MenuItem>
+                            </Menu>
+
+                        </StackPanel>
+
+                    </StackPanel>
+
+                </Grid>               
+               
+            </Border>
+
+            <Border Background="#1B1B1C" Grid.Row="1" BorderBrush="#434346" BorderThickness="0,1,0,0" 
+                    CornerRadius="0" Padding="20,20,20,50" Margin="0" >
+                <Grid VerticalAlignment="Top">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="4.5*"></RowDefinition>
+                        <RowDefinition Height="4.5*"></RowDefinition>
+                    </Grid.RowDefinitions>
+
+                    <StackPanel Orientation="Horizontal" Grid.Row="0" HorizontalAlignment="Center">
+
+                        <StackPanel Orientation="Vertical">
+                            <TextBlock Text="New" ClipToBounds="True" 
+                                   TextWrapping="Wrap" FontSize="15" TextAlignment="Center" 
+                                   Foreground="White" FontWeight="Normal"
+                                   FontFamily="Open Sans"></TextBlock>
+                            <TextBlock Text="Measurement" ClipToBounds="True" 
+                                   TextWrapping="Wrap" FontSize="15" TextAlignment="Center" 
+                               Foreground="White" FontWeight="Normal"
+                               FontFamily="Open Sans"></TextBlock>
+                            <Image Cursor="Hand" Name="Measurement"
+                                   Source="/com.boutique;component/Images/measurement.png" Margin="0,10,0,0"
+                           Height="75" HorizontalAlignment="Center" VerticalAlignment="Center"
+                                    PreviewMouseLeftButtonDown="Measurement_PreviewMouseLeftButtonDown"></Image>
+                        </StackPanel>
+
+                        <StackPanel Orientation="Vertical" Margin="20,0,0,0">
+                            <TextBlock Text="Today" ClipToBounds="True" 
+                                   TextWrapping="Wrap" FontSize="15" TextAlignment="Center" 
+                           Foreground="White" FontWeight="Normal"
+                           FontFamily="Open Sans"></TextBlock>
+                            <TextBlock Text="Orders" ClipToBounds="True" 
+                                   TextWrapping="Wrap" FontSize="15" TextAlignment="Center" 
+                           Foreground="White" FontWeight="Normal"
+                           FontFamily="Open Sans"></TextBlock>
+                            <Image Cursor="Hand" Source="/com.boutique;component/Images/order.png" Margin="0,10,0,0"
+                                   PreviewMouseLeftButtonDown="TodayOrder_PreviewMouseLeftButtonDown"
+                           Height="75" HorizontalAlignment="Center" VerticalAlignment="Center"></Image>
+                        </StackPanel>
+
+                        <StackPanel Orientation="Vertical" Margin="20,0,0,0">
+                            <TextBlock Text="Today" ClipToBounds="True" 
+                                   TextWrapping="Wrap" FontSize="15" TextAlignment="Center" 
+                               Foreground="White" FontWeight="Normal"
+                               FontFamily="Open Sans"></TextBlock>
+                            <TextBlock Text="Delivery" ClipToBounds="True" 
+                                   TextWrapping="Wrap" FontSize="15" TextAlignment="Center" 
+                                   Foreground="White" FontWeight="Normal"
+                                   FontFamily="Open Sans"></TextBlock>
+                            <Image Cursor="Hand" Source="/com.boutique;component/Images/order_deliver.png" Margin="0,10,0,0"
+                                    PreviewMouseLeftButtonDown="deliver_PreviewMouseLeftButtonDown"
+                           Height="75" HorizontalAlignment="Center" VerticalAlignment="Center"></Image>
+                        </StackPanel>                        
+
+                    </StackPanel>
+
+                    <StackPanel Orientation="Horizontal" Grid.Row="1" HorizontalAlignment="Center">
+
+                        <StackPanel Orientation="Vertical" Margin="20,18,0,0">
+                            <TextBlock Text="Settings" ClipToBounds="True" 
+                                   TextWrapping="Wrap" FontSize="15" TextAlignment="Center" 
+                           Foreground="White" FontWeight="Normal"
+                           FontFamily="Open Sans"></TextBlock>
+                            <Image Cursor="Hand" Source="/com.boutique;component/Images/settings.png" Margin="0,10,0,0"
+                                 Height="75" HorizontalAlignment="Center" VerticalAlignment="Center"
+                                   PreviewMouseLeftButtonDown="setting_PreviewMouseLeftButtonDown"
+                              ></Image>
+                        </StackPanel>
+
+                        <StackPanel Orientation="Vertical" Margin="20,18,0,0">
+                            <TextBlock Text="Order/Invoices" ClipToBounds="True" 
+                                   TextWrapping="Wrap" FontSize="15" TextAlignment="Center" 
+                           Foreground="White" FontWeight="Normal"
+                           FontFamily="Open Sans"></TextBlock>
+                            <Image Cursor="Hand" Source="/com.boutique;component/Images/invoice.png" Margin="0,10,0,0"
+                                    PreviewMouseLeftButtonDown="Invoice_PreviewMouseLeftButtonDown"
+                           Height="75" HorizontalAlignment="Center" VerticalAlignment="Center"></Image>
+                        </StackPanel>
+
+                        <StackPanel Orientation="Vertical" Margin="20,18,0,0">
+                            <TextBlock Text="Reports" ClipToBounds="True" 
+                                   TextWrapping="Wrap" FontSize="15" TextAlignment="Center" 
+                           Foreground="White" FontWeight="Normal"
+                           FontFamily="Open Sans"></TextBlock>
+                            <Image Cursor="Hand" Source="/com.boutique;component/Images/reports.png" Margin="0,10,0,0"
+                                Height="75" HorizontalAlignment="Center" VerticalAlignment="Center"
+                                PreviewMouseLeftButtonDown="report_PreviewMouseLeftButtonDown"
+                                   ></Image>
+                        </StackPanel>
+
+                    </StackPanel>
+
+                </Grid>
+            </Border>
+
+            <Popup IsOpen="{Binding IsAlertOpen}" Height="300" Width="450" Name="AlertBox" PopupAnimation="Fade" VerticalOffset="50" 
+                HorizontalAlignment="Center" VerticalAlignment="Center" Placement="Center" AllowsTransparency="True" Panel.ZIndex="10">
+                <UserControls:AlertBox DataContext="{Binding}" VerticalContentAlignment="Center" />
+            </Popup>
+
+            <Popup IsOpen="{Binding IsChangePasswordOpen}" 
+                   Name="ChangePasswordBox" PopupAnimation="Fade" VerticalOffset="0" 
+                HorizontalAlignment="Center" VerticalAlignment="Center" Placement="Center" AllowsTransparency="True">
+                <UserControls:ChangePassword DataContext="{Binding}" VerticalContentAlignment="Center" />
+            </Popup>
+
+        </Grid>
+        
+    </Border>
+</Window>

@@ -1,0 +1,49 @@
+D:\Projects\EnityProject\Repository\bin\Debug\Repository.dll.config
+D:\Projects\EnityProject\Repository\bin\Debug\Repository.dll
+D:\Projects\EnityProject\Repository\bin\Debug\Repository.pdb
+D:\Projects\EnityProject\Repository\bin\Debug\EntityFramework.dll
+D:\Projects\EnityProject\Repository\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\EnityProject\Repository\bin\Debug\EntityFramework.xml
+D:\Projects\EnityProject\Repository\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\EnityProject\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+D:\Projects\EnityProject\Repository\obj\Debug\Repository.dll
+D:\Projects\EnityProject\Repository\obj\Debug\Repository.pdb
+D:\DesktopApp\Personal\Studio\Repository\bin\Debug\Repository.dll.config
+D:\DesktopApp\Personal\Studio\Repository\bin\Debug\Repository.dll
+D:\DesktopApp\Personal\Studio\Repository\bin\Debug\Repository.pdb
+D:\DesktopApp\Personal\Studio\Repository\bin\Debug\EntityFramework.dll
+D:\DesktopApp\Personal\Studio\Repository\bin\Debug\EntityFramework.SqlServer.dll
+D:\DesktopApp\Personal\Studio\Repository\bin\Debug\EntityFramework.xml
+D:\DesktopApp\Personal\Studio\Repository\bin\Debug\EntityFramework.SqlServer.xml
+D:\DesktopApp\Personal\Studio\Repository\obj\Debug\Repository.dll
+D:\DesktopApp\Personal\Studio\Repository\obj\Debug\Repository.pdb
+D:\DesktopApp\Personal\Studio\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+E:\Personal\Studio_23_Feb\Repository\bin\Debug\Repository.dll.config
+E:\Personal\Studio_23_Feb\Repository\bin\Debug\Repository.dll
+E:\Personal\Studio_23_Feb\Repository\bin\Debug\Repository.pdb
+E:\Personal\Studio_23_Feb\Repository\bin\Debug\EntityFramework.dll
+E:\Personal\Studio_23_Feb\Repository\bin\Debug\EntityFramework.SqlServer.dll
+E:\Personal\Studio_23_Feb\Repository\bin\Debug\EntityFramework.xml
+E:\Personal\Studio_23_Feb\Repository\bin\Debug\EntityFramework.SqlServer.xml
+E:\Personal\Studio_23_Feb\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+E:\Personal\Studio_23_Feb\Repository\obj\Debug\Repository.dll
+E:\Personal\Studio_23_Feb\Repository\obj\Debug\Repository.pdb
+E:\Personal Projects\Studio_23_Feb\Repository\bin\Debug\Repository.dll.config
+E:\Personal Projects\Studio_23_Feb\Repository\bin\Debug\Repository.dll
+E:\Personal Projects\Studio_23_Feb\Repository\bin\Debug\Repository.pdb
+E:\Personal Projects\Studio_23_Feb\Repository\bin\Debug\EntityFramework.dll
+E:\Personal Projects\Studio_23_Feb\Repository\bin\Debug\EntityFramework.SqlServer.dll
+E:\Personal Projects\Studio_23_Feb\Repository\bin\Debug\EntityFramework.xml
+E:\Personal Projects\Studio_23_Feb\Repository\bin\Debug\EntityFramework.SqlServer.xml
+E:\Personal Projects\Studio_23_Feb\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+E:\Personal Projects\Studio_23_Feb\Repository\obj\Debug\Repository.dll
+E:\Personal Projects\Studio_23_Feb\Repository\obj\Debug\Repository.pdb
+E:\Personal Projects\Boutique Live\Repository\bin\Debug\Repository.dll.config
+E:\Personal Projects\Boutique Live\Repository\bin\Debug\Repository.dll
+E:\Personal Projects\Boutique Live\Repository\bin\Debug\Repository.pdb
+E:\Personal Projects\Boutique Live\Repository\bin\Debug\EntityFramework.dll
+E:\Personal Projects\Boutique Live\Repository\bin\Debug\EntityFramework.SqlServer.dll
+E:\Personal Projects\Boutique Live\Repository\bin\Debug\EntityFramework.xml
+E:\Personal Projects\Boutique Live\Repository\bin\Debug\EntityFramework.SqlServer.xml
+E:\Personal Projects\Boutique Live\Repository\obj\Debug\Repository.dll
+E:\Personal Projects\Boutique Live\Repository\obj\Debug\Repository.pdb

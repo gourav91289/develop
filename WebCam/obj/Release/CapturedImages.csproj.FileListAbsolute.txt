@@ -1,0 +1,10 @@
+E:\Personal Projects\Studio_23_Feb\WebCam\bin\Release\CapturedImages.dll
+E:\Personal Projects\Studio_23_Feb\WebCam\bin\Release\WebCam_Capture.dll
+E:\Personal Projects\Studio_23_Feb\WebCam\obj\Release\CustomStitchingImage.g.cs
+E:\Personal Projects\Studio_23_Feb\WebCam\obj\Release\GeneratedInternalTypeHelper.g.cs
+E:\Personal Projects\Studio_23_Feb\WebCam\obj\Release\CapturedImages_MarkupCompile.cache
+E:\Personal Projects\Studio_23_Feb\WebCam\obj\Release\CapturedImages_MarkupCompile.lref
+E:\Personal Projects\Studio_23_Feb\WebCam\obj\Release\CustomStitchingImage.baml
+E:\Personal Projects\Studio_23_Feb\WebCam\obj\Release\CapturedImages.g.resources
+E:\Personal Projects\Studio_23_Feb\WebCam\obj\Release\CapturedImages.dll
+E:\Personal Projects\Studio_23_Feb\WebCam\obj\Release\CapturedImages.csprojResolveAssemblyReference.cache

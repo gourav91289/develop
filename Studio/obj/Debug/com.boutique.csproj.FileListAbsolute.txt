@@ -1,0 +1,376 @@
+D:\DesktopApp\Personal\Studio\Studio\bin\Debug\com.boutique.exe.config
+D:\DesktopApp\Personal\Studio\Studio\bin\Debug\com.boutique.exe.manifest
+D:\DesktopApp\Personal\Studio\Studio\bin\Debug\com.boutique.application
+D:\DesktopApp\Personal\Studio\Studio\bin\Debug\com.boutique.exe
+D:\DesktopApp\Personal\Studio\Studio\bin\Debug\com.boutique.pdb
+D:\DesktopApp\Personal\Studio\Studio\bin\Debug\AdornedControl.dll
+D:\DesktopApp\Personal\Studio\Studio\bin\Debug\CustomColorPicker.dll
+D:\DesktopApp\Personal\Studio\Studio\bin\Debug\EntityFramework.dll
+D:\DesktopApp\Personal\Studio\Studio\bin\Debug\EntityFramework.SqlServer.dll
+D:\DesktopApp\Personal\Studio\Studio\bin\Debug\GalaSoft.MvvmLight.dll
+D:\DesktopApp\Personal\Studio\Studio\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+D:\DesktopApp\Personal\Studio\Studio\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+D:\DesktopApp\Personal\Studio\Studio\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\DesktopApp\Personal\Studio\Studio\bin\Debug\Microsoft.Practices.Unity.dll
+D:\DesktopApp\Personal\Studio\Studio\bin\Debug\Repository.dll
+D:\DesktopApp\Personal\Studio\Studio\bin\Debug\Studio.CommonTypes.dll
+D:\DesktopApp\Personal\Studio\Studio\bin\Debug\Studio.Data.dll
+D:\DesktopApp\Personal\Studio\Studio\bin\Debug\Studio.Entity.dll
+D:\DesktopApp\Personal\Studio\Studio\bin\Debug\Studio.GlobalResource.dll
+D:\DesktopApp\Personal\Studio\Studio\bin\Debug\Studio.Helper.dll
+D:\DesktopApp\Personal\Studio\Studio\bin\Debug\Studio.Model.dll
+D:\DesktopApp\Personal\Studio\Studio\bin\Debug\Studio.Service.dll
+D:\DesktopApp\Personal\Studio\Studio\bin\Debug\System.Windows.Interactivity.dll
+D:\DesktopApp\Personal\Studio\Studio\bin\Debug\VisualPrint.dll
+D:\DesktopApp\Personal\Studio\Studio\bin\Debug\WhatsAppApi.dll
+D:\DesktopApp\Personal\Studio\Studio\bin\Debug\WpfAnimatedGif.dll
+D:\DesktopApp\Personal\Studio\Studio\bin\Debug\WpfControls.dll
+D:\DesktopApp\Personal\Studio\Studio\bin\Debug\Newtonsoft.Json.dll
+D:\DesktopApp\Personal\Studio\Studio\bin\Debug\CustomColorPicker.pdb
+D:\DesktopApp\Personal\Studio\Studio\bin\Debug\Repository.pdb
+D:\DesktopApp\Personal\Studio\Studio\bin\Debug\Studio.CommonTypes.pdb
+D:\DesktopApp\Personal\Studio\Studio\bin\Debug\Studio.Data.pdb
+D:\DesktopApp\Personal\Studio\Studio\bin\Debug\Studio.Entity.pdb
+D:\DesktopApp\Personal\Studio\Studio\bin\Debug\Studio.GlobalResource.pdb
+D:\DesktopApp\Personal\Studio\Studio\bin\Debug\Studio.Helper.pdb
+D:\DesktopApp\Personal\Studio\Studio\bin\Debug\Studio.Model.pdb
+D:\DesktopApp\Personal\Studio\Studio\bin\Debug\Studio.Service.pdb
+D:\DesktopApp\Personal\Studio\Studio\bin\Debug\VisualPrint.pdb
+D:\DesktopApp\Personal\Studio\Studio\bin\Debug\EntityFramework.xml
+D:\DesktopApp\Personal\Studio\Studio\bin\Debug\EntityFramework.SqlServer.xml
+D:\DesktopApp\Personal\Studio\Studio\bin\Debug\GalaSoft.MvvmLight.pdb
+D:\DesktopApp\Personal\Studio\Studio\bin\Debug\GalaSoft.MvvmLight.xml
+D:\DesktopApp\Personal\Studio\Studio\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+D:\DesktopApp\Personal\Studio\Studio\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+D:\DesktopApp\Personal\Studio\Studio\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+D:\DesktopApp\Personal\Studio\Studio\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+D:\DesktopApp\Personal\Studio\Studio\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\DesktopApp\Personal\Studio\Studio\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\DesktopApp\Personal\Studio\Studio\bin\Debug\WpfAnimatedGif.xml
+D:\DesktopApp\Personal\Studio\Studio\bin\Debug\WpfControls.xml
+D:\DesktopApp\Personal\Studio\Studio\bin\Debug\Newtonsoft.Json.xml
+D:\DesktopApp\Personal\Studio\Studio\bin\Debug\Interop.IWshRuntimeLibrary.dll
+D:\DesktopApp\Personal\Studio\Studio\obj\Debug\com.boutique.csprojResolveAssemblyReference.cache
+D:\DesktopApp\Personal\Studio\Studio\obj\Debug\Interop.IWshRuntimeLibrary.dll
+D:\DesktopApp\Personal\Studio\Studio\obj\Debug\com.boutique.csproj.ResolveComReference.cache
+D:\DesktopApp\Personal\Studio\Studio\obj\Debug\Common\StandardStyles.baml
+D:\DesktopApp\Personal\Studio\Studio\obj\Debug\Views\UserControls\AlertBox.baml
+D:\DesktopApp\Personal\Studio\Studio\obj\Debug\Views\Reports\Reports.g.cs
+D:\DesktopApp\Personal\Studio\Studio\obj\Debug\Views\Order\Order.g.cs
+D:\DesktopApp\Personal\Studio\Studio\obj\Debug\Views\Public\Invoice.g.cs
+D:\DesktopApp\Personal\Studio\Studio\obj\Debug\Views\Public\UpdateSettings.g.cs
+D:\DesktopApp\Personal\Studio\Studio\obj\Debug\Views\Public\StitchingWindow.g.cs
+D:\DesktopApp\Personal\Studio\Studio\obj\Debug\Views\Public\NewMeasurement.g.cs
+D:\DesktopApp\Personal\Studio\Studio\obj\Debug\Views\Public\Setting.g.cs
+D:\DesktopApp\Personal\Studio\Studio\obj\Debug\Views\Setup\Setup.g.cs
+D:\DesktopApp\Personal\Studio\Studio\obj\Debug\Views\Public\Login.g.cs
+D:\DesktopApp\Personal\Studio\Studio\obj\Debug\Views\UserControls\AlertBox.g.cs
+D:\DesktopApp\Personal\Studio\Studio\obj\Debug\Views\UserControls\BoutiqueDetail.g.cs
+D:\DesktopApp\Personal\Studio\Studio\obj\Debug\Views\UserControls\ChangePassword.g.cs
+D:\DesktopApp\Personal\Studio\Studio\obj\Debug\Views\UserControls\UserDetail.g.cs
+D:\DesktopApp\Personal\Studio\Studio\obj\Debug\App.g.cs
+D:\DesktopApp\Personal\Studio\Studio\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\DesktopApp\Personal\Studio\Studio\obj\Debug\com.boutique_MarkupCompile.cache
+D:\DesktopApp\Personal\Studio\Studio\obj\Debug\com.boutique_MarkupCompile.lref
+D:\DesktopApp\Personal\Studio\Studio\obj\Debug\App.baml
+D:\DesktopApp\Personal\Studio\Studio\obj\Debug\Views\Reports\Reports.baml
+D:\DesktopApp\Personal\Studio\Studio\obj\Debug\Views\Order\Order.baml
+D:\DesktopApp\Personal\Studio\Studio\obj\Debug\Views\Public\Invoice.baml
+D:\DesktopApp\Personal\Studio\Studio\obj\Debug\Views\Public\UpdateSettings.baml
+D:\DesktopApp\Personal\Studio\Studio\obj\Debug\Views\Public\StitchingWindow.baml
+D:\DesktopApp\Personal\Studio\Studio\obj\Debug\Views\Public\NewMeasurement.baml
+D:\DesktopApp\Personal\Studio\Studio\obj\Debug\Views\Public\Setting.baml
+D:\DesktopApp\Personal\Studio\Studio\obj\Debug\Views\Setup\Setup.baml
+D:\DesktopApp\Personal\Studio\Studio\obj\Debug\Views\Public\Login.baml
+D:\DesktopApp\Personal\Studio\Studio\obj\Debug\Views\UserControls\BoutiqueDetail.baml
+D:\DesktopApp\Personal\Studio\Studio\obj\Debug\Views\UserControls\ChangePassword.baml
+D:\DesktopApp\Personal\Studio\Studio\obj\Debug\Views\UserControls\UserDetail.baml
+D:\DesktopApp\Personal\Studio\Studio\obj\Debug\com.boutique.g.resources
+D:\DesktopApp\Personal\Studio\Studio\obj\Debug\com.boutique.Properties.Resources.resources
+D:\DesktopApp\Personal\Studio\Studio\obj\Debug\com.boutique.csproj.GenerateResource.Cache
+D:\DesktopApp\Personal\Studio\Studio\obj\Debug\com.boutique.exe.manifest
+D:\DesktopApp\Personal\Studio\Studio\obj\Debug\com.boutique.application
+D:\DesktopApp\Personal\Studio\Studio\obj\Debug\com.boutique.exe
+D:\DesktopApp\Personal\Studio\Studio\obj\Debug\com.boutique.pdb
+D:\DesktopApp\Personal\Studio\Studio\bin\Debug\CapturedImages.dll
+D:\DesktopApp\Personal\Studio\Studio\bin\Debug\WebCam_Capture.dll
+D:\DesktopApp\Personal\Studio\Studio\bin\Debug\CapturedImages.pdb
+E:\Personal\Studio_23_Feb\Studio\bin\Debug\com.boutique.exe.config
+E:\Personal\Studio_23_Feb\Studio\bin\Debug\com.boutique.exe.manifest
+E:\Personal\Studio_23_Feb\Studio\bin\Debug\com.boutique.application
+E:\Personal\Studio_23_Feb\Studio\bin\Debug\com.boutique.exe
+E:\Personal\Studio_23_Feb\Studio\bin\Debug\com.boutique.pdb
+E:\Personal\Studio_23_Feb\Studio\bin\Debug\AdornedControl.dll
+E:\Personal\Studio_23_Feb\Studio\bin\Debug\CapturedImages.dll
+E:\Personal\Studio_23_Feb\Studio\bin\Debug\CustomColorPicker.dll
+E:\Personal\Studio_23_Feb\Studio\bin\Debug\EntityFramework.dll
+E:\Personal\Studio_23_Feb\Studio\bin\Debug\EntityFramework.SqlServer.dll
+E:\Personal\Studio_23_Feb\Studio\bin\Debug\GalaSoft.MvvmLight.dll
+E:\Personal\Studio_23_Feb\Studio\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+E:\Personal\Studio_23_Feb\Studio\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+E:\Personal\Studio_23_Feb\Studio\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\Personal\Studio_23_Feb\Studio\bin\Debug\Repository.dll
+E:\Personal\Studio_23_Feb\Studio\bin\Debug\Studio.CommonTypes.dll
+E:\Personal\Studio_23_Feb\Studio\bin\Debug\Studio.Data.dll
+E:\Personal\Studio_23_Feb\Studio\bin\Debug\Studio.Entity.dll
+E:\Personal\Studio_23_Feb\Studio\bin\Debug\Studio.GlobalResource.dll
+E:\Personal\Studio_23_Feb\Studio\bin\Debug\Studio.Helper.dll
+E:\Personal\Studio_23_Feb\Studio\bin\Debug\Studio.Model.dll
+E:\Personal\Studio_23_Feb\Studio\bin\Debug\Studio.Service.dll
+E:\Personal\Studio_23_Feb\Studio\bin\Debug\System.Windows.Interactivity.dll
+E:\Personal\Studio_23_Feb\Studio\bin\Debug\VisualPrint.dll
+E:\Personal\Studio_23_Feb\Studio\bin\Debug\WhatsAppApi.dll
+E:\Personal\Studio_23_Feb\Studio\bin\Debug\WpfAnimatedGif.dll
+E:\Personal\Studio_23_Feb\Studio\bin\Debug\WpfControls.dll
+E:\Personal\Studio_23_Feb\Studio\bin\Debug\Newtonsoft.Json.dll
+E:\Personal\Studio_23_Feb\Studio\bin\Debug\WebCam_Capture.dll
+E:\Personal\Studio_23_Feb\Studio\bin\Debug\CustomColorPicker.pdb
+E:\Personal\Studio_23_Feb\Studio\bin\Debug\Repository.pdb
+E:\Personal\Studio_23_Feb\Studio\bin\Debug\Studio.CommonTypes.pdb
+E:\Personal\Studio_23_Feb\Studio\bin\Debug\Studio.Data.pdb
+E:\Personal\Studio_23_Feb\Studio\bin\Debug\Studio.Entity.pdb
+E:\Personal\Studio_23_Feb\Studio\bin\Debug\Studio.GlobalResource.pdb
+E:\Personal\Studio_23_Feb\Studio\bin\Debug\Studio.Helper.pdb
+E:\Personal\Studio_23_Feb\Studio\bin\Debug\Studio.Model.pdb
+E:\Personal\Studio_23_Feb\Studio\bin\Debug\Studio.Service.pdb
+E:\Personal\Studio_23_Feb\Studio\bin\Debug\VisualPrint.pdb
+E:\Personal\Studio_23_Feb\Studio\bin\Debug\CapturedImages.pdb
+E:\Personal\Studio_23_Feb\Studio\bin\Debug\EntityFramework.xml
+E:\Personal\Studio_23_Feb\Studio\bin\Debug\EntityFramework.SqlServer.xml
+E:\Personal\Studio_23_Feb\Studio\bin\Debug\GalaSoft.MvvmLight.pdb
+E:\Personal\Studio_23_Feb\Studio\bin\Debug\GalaSoft.MvvmLight.xml
+E:\Personal\Studio_23_Feb\Studio\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+E:\Personal\Studio_23_Feb\Studio\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+E:\Personal\Studio_23_Feb\Studio\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+E:\Personal\Studio_23_Feb\Studio\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+E:\Personal\Studio_23_Feb\Studio\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\Personal\Studio_23_Feb\Studio\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+E:\Personal\Studio_23_Feb\Studio\bin\Debug\WpfAnimatedGif.xml
+E:\Personal\Studio_23_Feb\Studio\bin\Debug\WpfControls.xml
+E:\Personal\Studio_23_Feb\Studio\bin\Debug\Newtonsoft.Json.xml
+E:\Personal\Studio_23_Feb\Studio\obj\Debug\com.boutique.csprojResolveAssemblyReference.cache
+E:\Personal\Studio_23_Feb\Studio\obj\Debug\Common\StandardStyles.baml
+E:\Personal\Studio_23_Feb\Studio\obj\Debug\Views\UserControls\AlertBox.baml
+E:\Personal\Studio_23_Feb\Studio\obj\Debug\Views\Reports\Reports.g.cs
+E:\Personal\Studio_23_Feb\Studio\obj\Debug\Views\Order\Order.g.cs
+E:\Personal\Studio_23_Feb\Studio\obj\Debug\Views\Public\Invoice.g.cs
+E:\Personal\Studio_23_Feb\Studio\obj\Debug\Views\Public\UpdateSettings.g.cs
+E:\Personal\Studio_23_Feb\Studio\obj\Debug\Views\Public\StitchingWindow.g.cs
+E:\Personal\Studio_23_Feb\Studio\obj\Debug\Views\Public\NewMeasurement.g.cs
+E:\Personal\Studio_23_Feb\Studio\obj\Debug\Views\Public\Setting.g.cs
+E:\Personal\Studio_23_Feb\Studio\obj\Debug\Views\Setup\Setup.g.cs
+E:\Personal\Studio_23_Feb\Studio\obj\Debug\Views\Public\Login.g.cs
+E:\Personal\Studio_23_Feb\Studio\obj\Debug\Views\UserControls\AlertBox.g.cs
+E:\Personal\Studio_23_Feb\Studio\obj\Debug\Views\UserControls\BoutiqueDetail.g.cs
+E:\Personal\Studio_23_Feb\Studio\obj\Debug\Views\UserControls\ChangePassword.g.cs
+E:\Personal\Studio_23_Feb\Studio\obj\Debug\Views\UserControls\UserDetail.g.cs
+E:\Personal\Studio_23_Feb\Studio\obj\Debug\App.g.cs
+E:\Personal\Studio_23_Feb\Studio\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Personal\Studio_23_Feb\Studio\obj\Debug\com.boutique_MarkupCompile.cache
+E:\Personal\Studio_23_Feb\Studio\obj\Debug\com.boutique_MarkupCompile.lref
+E:\Personal\Studio_23_Feb\Studio\obj\Debug\App.baml
+E:\Personal\Studio_23_Feb\Studio\obj\Debug\Views\Reports\Reports.baml
+E:\Personal\Studio_23_Feb\Studio\obj\Debug\Views\Order\Order.baml
+E:\Personal\Studio_23_Feb\Studio\obj\Debug\Views\Public\Invoice.baml
+E:\Personal\Studio_23_Feb\Studio\obj\Debug\Views\Public\UpdateSettings.baml
+E:\Personal\Studio_23_Feb\Studio\obj\Debug\Views\Public\StitchingWindow.baml
+E:\Personal\Studio_23_Feb\Studio\obj\Debug\Views\Public\NewMeasurement.baml
+E:\Personal\Studio_23_Feb\Studio\obj\Debug\Views\Public\Setting.baml
+E:\Personal\Studio_23_Feb\Studio\obj\Debug\Views\Setup\Setup.baml
+E:\Personal\Studio_23_Feb\Studio\obj\Debug\Views\Public\Login.baml
+E:\Personal\Studio_23_Feb\Studio\obj\Debug\Views\UserControls\BoutiqueDetail.baml
+E:\Personal\Studio_23_Feb\Studio\obj\Debug\Views\UserControls\ChangePassword.baml
+E:\Personal\Studio_23_Feb\Studio\obj\Debug\Views\UserControls\UserDetail.baml
+E:\Personal\Studio_23_Feb\Studio\obj\Debug\com.boutique.g.resources
+E:\Personal\Studio_23_Feb\Studio\obj\Debug\com.boutique.Properties.Resources.resources
+E:\Personal\Studio_23_Feb\Studio\obj\Debug\com.boutique.csproj.GenerateResource.Cache
+E:\Personal\Studio_23_Feb\Studio\obj\Debug\com.boutique.exe.manifest
+E:\Personal\Studio_23_Feb\Studio\obj\Debug\com.boutique.application
+E:\Personal\Studio_23_Feb\Studio\obj\Debug\com.boutique.exe
+E:\Personal\Studio_23_Feb\Studio\obj\Debug\com.boutique.pdb
+E:\Personal Projects\Studio_23_Feb\Studio\obj\Debug\com.boutique.csprojResolveAssemblyReference.cache
+E:\Personal Projects\Studio_23_Feb\Studio\obj\Debug\Common\StandardStyles.baml
+E:\Personal Projects\Studio_23_Feb\Studio\obj\Debug\Views\UserControls\AlertBox.baml
+E:\Personal Projects\Studio_23_Feb\Studio\obj\Debug\Views\Reports\Reports.g.cs
+E:\Personal Projects\Studio_23_Feb\Studio\obj\Debug\Views\Order\Order.g.cs
+E:\Personal Projects\Studio_23_Feb\Studio\obj\Debug\Views\Public\UpdateSettings.g.cs
+E:\Personal Projects\Studio_23_Feb\Studio\obj\Debug\Views\Public\StitchingWindow.g.cs
+E:\Personal Projects\Studio_23_Feb\Studio\obj\Debug\Views\Public\NewMeasurement.g.cs
+E:\Personal Projects\Studio_23_Feb\Studio\obj\Debug\Views\Public\Setting.g.cs
+E:\Personal Projects\Studio_23_Feb\Studio\obj\Debug\Views\Setup\Setup.g.cs
+E:\Personal Projects\Studio_23_Feb\Studio\obj\Debug\Views\Public\Login.g.cs
+E:\Personal Projects\Studio_23_Feb\Studio\obj\Debug\Views\UserControls\AlertBox.g.cs
+E:\Personal Projects\Studio_23_Feb\Studio\obj\Debug\Views\UserControls\BoutiqueDetail.g.cs
+E:\Personal Projects\Studio_23_Feb\Studio\obj\Debug\Views\UserControls\ChangePassword.g.cs
+E:\Personal Projects\Studio_23_Feb\Studio\obj\Debug\Views\UserControls\UserDetail.g.cs
+E:\Personal Projects\Studio_23_Feb\Studio\obj\Debug\App.g.cs
+E:\Personal Projects\Studio_23_Feb\Studio\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Personal Projects\Studio_23_Feb\Studio\obj\Debug\com.boutique_MarkupCompile.cache
+E:\Personal Projects\Studio_23_Feb\Studio\obj\Debug\com.boutique_MarkupCompile.lref
+E:\Personal Projects\Studio_23_Feb\Studio\bin\Debug\com.boutique.exe.config
+E:\Personal Projects\Studio_23_Feb\Studio\bin\Debug\com.boutique.exe.manifest
+E:\Personal Projects\Studio_23_Feb\Studio\bin\Debug\com.boutique.application
+E:\Personal Projects\Studio_23_Feb\Studio\bin\Debug\com.boutique.exe
+E:\Personal Projects\Studio_23_Feb\Studio\bin\Debug\com.boutique.pdb
+E:\Personal Projects\Studio_23_Feb\Studio\bin\Debug\AdornedControl.dll
+E:\Personal Projects\Studio_23_Feb\Studio\bin\Debug\CapturedImages.dll
+E:\Personal Projects\Studio_23_Feb\Studio\bin\Debug\CustomColorPicker.dll
+E:\Personal Projects\Studio_23_Feb\Studio\bin\Debug\EntityFramework.dll
+E:\Personal Projects\Studio_23_Feb\Studio\bin\Debug\EntityFramework.SqlServer.dll
+E:\Personal Projects\Studio_23_Feb\Studio\bin\Debug\GalaSoft.MvvmLight.dll
+E:\Personal Projects\Studio_23_Feb\Studio\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+E:\Personal Projects\Studio_23_Feb\Studio\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+E:\Personal Projects\Studio_23_Feb\Studio\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\Personal Projects\Studio_23_Feb\Studio\bin\Debug\Repository.dll
+E:\Personal Projects\Studio_23_Feb\Studio\bin\Debug\Studio.CommonTypes.dll
+E:\Personal Projects\Studio_23_Feb\Studio\bin\Debug\Studio.Data.dll
+E:\Personal Projects\Studio_23_Feb\Studio\bin\Debug\Studio.Entity.dll
+E:\Personal Projects\Studio_23_Feb\Studio\bin\Debug\Studio.GlobalResource.dll
+E:\Personal Projects\Studio_23_Feb\Studio\bin\Debug\Studio.Helper.dll
+E:\Personal Projects\Studio_23_Feb\Studio\bin\Debug\Studio.Model.dll
+E:\Personal Projects\Studio_23_Feb\Studio\bin\Debug\Studio.Service.dll
+E:\Personal Projects\Studio_23_Feb\Studio\bin\Debug\System.Windows.Interactivity.dll
+E:\Personal Projects\Studio_23_Feb\Studio\bin\Debug\VisualPrint.dll
+E:\Personal Projects\Studio_23_Feb\Studio\bin\Debug\WhatsAppApi.dll
+E:\Personal Projects\Studio_23_Feb\Studio\bin\Debug\WpfAnimatedGif.dll
+E:\Personal Projects\Studio_23_Feb\Studio\bin\Debug\WpfControls.dll
+E:\Personal Projects\Studio_23_Feb\Studio\bin\Debug\Newtonsoft.Json.dll
+E:\Personal Projects\Studio_23_Feb\Studio\bin\Debug\WebCam_Capture.dll
+E:\Personal Projects\Studio_23_Feb\Studio\bin\Debug\CustomColorPicker.pdb
+E:\Personal Projects\Studio_23_Feb\Studio\bin\Debug\Repository.pdb
+E:\Personal Projects\Studio_23_Feb\Studio\bin\Debug\Studio.CommonTypes.pdb
+E:\Personal Projects\Studio_23_Feb\Studio\bin\Debug\Studio.Data.pdb
+E:\Personal Projects\Studio_23_Feb\Studio\bin\Debug\Studio.Entity.pdb
+E:\Personal Projects\Studio_23_Feb\Studio\bin\Debug\Studio.GlobalResource.pdb
+E:\Personal Projects\Studio_23_Feb\Studio\bin\Debug\Studio.Helper.pdb
+E:\Personal Projects\Studio_23_Feb\Studio\bin\Debug\Studio.Model.pdb
+E:\Personal Projects\Studio_23_Feb\Studio\bin\Debug\Studio.Service.pdb
+E:\Personal Projects\Studio_23_Feb\Studio\bin\Debug\VisualPrint.pdb
+E:\Personal Projects\Studio_23_Feb\Studio\bin\Debug\CapturedImages.pdb
+E:\Personal Projects\Studio_23_Feb\Studio\bin\Debug\EntityFramework.xml
+E:\Personal Projects\Studio_23_Feb\Studio\bin\Debug\EntityFramework.SqlServer.xml
+E:\Personal Projects\Studio_23_Feb\Studio\bin\Debug\GalaSoft.MvvmLight.pdb
+E:\Personal Projects\Studio_23_Feb\Studio\bin\Debug\GalaSoft.MvvmLight.xml
+E:\Personal Projects\Studio_23_Feb\Studio\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+E:\Personal Projects\Studio_23_Feb\Studio\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+E:\Personal Projects\Studio_23_Feb\Studio\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+E:\Personal Projects\Studio_23_Feb\Studio\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+E:\Personal Projects\Studio_23_Feb\Studio\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\Personal Projects\Studio_23_Feb\Studio\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+E:\Personal Projects\Studio_23_Feb\Studio\bin\Debug\WpfAnimatedGif.xml
+E:\Personal Projects\Studio_23_Feb\Studio\bin\Debug\WpfControls.xml
+E:\Personal Projects\Studio_23_Feb\Studio\bin\Debug\Newtonsoft.Json.xml
+E:\Personal Projects\Studio_23_Feb\Studio\obj\Debug\Views\Public\Invoice.g.cs
+E:\Personal Projects\Studio_23_Feb\Studio\obj\Debug\App.baml
+E:\Personal Projects\Studio_23_Feb\Studio\obj\Debug\Views\Reports\Reports.baml
+E:\Personal Projects\Studio_23_Feb\Studio\obj\Debug\Views\Order\Order.baml
+E:\Personal Projects\Studio_23_Feb\Studio\obj\Debug\Views\Public\Invoice.baml
+E:\Personal Projects\Studio_23_Feb\Studio\obj\Debug\Views\Public\UpdateSettings.baml
+E:\Personal Projects\Studio_23_Feb\Studio\obj\Debug\Views\Public\StitchingWindow.baml
+E:\Personal Projects\Studio_23_Feb\Studio\obj\Debug\Views\Public\NewMeasurement.baml
+E:\Personal Projects\Studio_23_Feb\Studio\obj\Debug\Views\Public\Setting.baml
+E:\Personal Projects\Studio_23_Feb\Studio\obj\Debug\Views\Setup\Setup.baml
+E:\Personal Projects\Studio_23_Feb\Studio\obj\Debug\Views\Public\Login.baml
+E:\Personal Projects\Studio_23_Feb\Studio\obj\Debug\Views\UserControls\BoutiqueDetail.baml
+E:\Personal Projects\Studio_23_Feb\Studio\obj\Debug\Views\UserControls\ChangePassword.baml
+E:\Personal Projects\Studio_23_Feb\Studio\obj\Debug\Views\UserControls\UserDetail.baml
+E:\Personal Projects\Studio_23_Feb\Studio\obj\Debug\com.boutique.g.resources
+E:\Personal Projects\Studio_23_Feb\Studio\obj\Debug\com.boutique.Properties.Resources.resources
+E:\Personal Projects\Studio_23_Feb\Studio\obj\Debug\com.boutique.csproj.GenerateResource.Cache
+E:\Personal Projects\Studio_23_Feb\Studio\obj\Debug\com.boutique.exe.manifest
+E:\Personal Projects\Studio_23_Feb\Studio\obj\Debug\com.boutique.application
+E:\Personal Projects\Studio_23_Feb\Studio\obj\Debug\com.boutique.exe
+E:\Personal Projects\Studio_23_Feb\Studio\obj\Debug\com.boutique.pdb
+E:\Personal Projects\Boutique Live\Studio\bin\Debug\com.boutique.exe.config
+E:\Personal Projects\Boutique Live\Studio\bin\Debug\com.boutique.exe.manifest
+E:\Personal Projects\Boutique Live\Studio\bin\Debug\com.boutique.application
+E:\Personal Projects\Boutique Live\Studio\bin\Debug\com.boutique.exe
+E:\Personal Projects\Boutique Live\Studio\bin\Debug\com.boutique.pdb
+E:\Personal Projects\Boutique Live\Studio\bin\Debug\AdornedControl.dll
+E:\Personal Projects\Boutique Live\Studio\bin\Debug\CapturedImages.dll
+E:\Personal Projects\Boutique Live\Studio\bin\Debug\CustomColorPicker.dll
+E:\Personal Projects\Boutique Live\Studio\bin\Debug\EntityFramework.dll
+E:\Personal Projects\Boutique Live\Studio\bin\Debug\EntityFramework.SqlServer.dll
+E:\Personal Projects\Boutique Live\Studio\bin\Debug\GalaSoft.MvvmLight.dll
+E:\Personal Projects\Boutique Live\Studio\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+E:\Personal Projects\Boutique Live\Studio\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+E:\Personal Projects\Boutique Live\Studio\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\Personal Projects\Boutique Live\Studio\bin\Debug\Repository.dll
+E:\Personal Projects\Boutique Live\Studio\bin\Debug\Studio.CommonTypes.dll
+E:\Personal Projects\Boutique Live\Studio\bin\Debug\Studio.Data.dll
+E:\Personal Projects\Boutique Live\Studio\bin\Debug\Studio.Entity.dll
+E:\Personal Projects\Boutique Live\Studio\bin\Debug\Studio.GlobalResource.dll
+E:\Personal Projects\Boutique Live\Studio\bin\Debug\Studio.Helper.dll
+E:\Personal Projects\Boutique Live\Studio\bin\Debug\Studio.Model.dll
+E:\Personal Projects\Boutique Live\Studio\bin\Debug\Studio.Service.dll
+E:\Personal Projects\Boutique Live\Studio\bin\Debug\System.Windows.Interactivity.dll
+E:\Personal Projects\Boutique Live\Studio\bin\Debug\VisualPrint.dll
+E:\Personal Projects\Boutique Live\Studio\bin\Debug\WhatsAppApi.dll
+E:\Personal Projects\Boutique Live\Studio\bin\Debug\WpfAnimatedGif.dll
+E:\Personal Projects\Boutique Live\Studio\bin\Debug\WpfControls.dll
+E:\Personal Projects\Boutique Live\Studio\bin\Debug\Newtonsoft.Json.dll
+E:\Personal Projects\Boutique Live\Studio\bin\Debug\WebCam_Capture.dll
+E:\Personal Projects\Boutique Live\Studio\bin\Debug\CustomColorPicker.pdb
+E:\Personal Projects\Boutique Live\Studio\bin\Debug\Repository.pdb
+E:\Personal Projects\Boutique Live\Studio\bin\Debug\Studio.CommonTypes.pdb
+E:\Personal Projects\Boutique Live\Studio\bin\Debug\Studio.Data.pdb
+E:\Personal Projects\Boutique Live\Studio\bin\Debug\Studio.Entity.pdb
+E:\Personal Projects\Boutique Live\Studio\bin\Debug\Studio.GlobalResource.pdb
+E:\Personal Projects\Boutique Live\Studio\bin\Debug\Studio.Helper.pdb
+E:\Personal Projects\Boutique Live\Studio\bin\Debug\Studio.Model.pdb
+E:\Personal Projects\Boutique Live\Studio\bin\Debug\Studio.Service.pdb
+E:\Personal Projects\Boutique Live\Studio\bin\Debug\VisualPrint.pdb
+E:\Personal Projects\Boutique Live\Studio\bin\Debug\CapturedImages.pdb
+E:\Personal Projects\Boutique Live\Studio\bin\Debug\EntityFramework.xml
+E:\Personal Projects\Boutique Live\Studio\bin\Debug\EntityFramework.SqlServer.xml
+E:\Personal Projects\Boutique Live\Studio\bin\Debug\GalaSoft.MvvmLight.pdb
+E:\Personal Projects\Boutique Live\Studio\bin\Debug\GalaSoft.MvvmLight.xml
+E:\Personal Projects\Boutique Live\Studio\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+E:\Personal Projects\Boutique Live\Studio\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+E:\Personal Projects\Boutique Live\Studio\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+E:\Personal Projects\Boutique Live\Studio\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+E:\Personal Projects\Boutique Live\Studio\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\Personal Projects\Boutique Live\Studio\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+E:\Personal Projects\Boutique Live\Studio\bin\Debug\WpfAnimatedGif.xml
+E:\Personal Projects\Boutique Live\Studio\bin\Debug\WpfControls.xml
+E:\Personal Projects\Boutique Live\Studio\bin\Debug\Newtonsoft.Json.xml
+E:\Personal Projects\Boutique Live\Studio\obj\Debug\com.boutique.csprojResolveAssemblyReference.cache
+E:\Personal Projects\Boutique Live\Studio\obj\Debug\Common\StandardStyles.baml
+E:\Personal Projects\Boutique Live\Studio\obj\Debug\Views\UserControls\AlertBox.baml
+E:\Personal Projects\Boutique Live\Studio\obj\Debug\Views\Reports\Reports.g.cs
+E:\Personal Projects\Boutique Live\Studio\obj\Debug\Views\Order\Order.g.cs
+E:\Personal Projects\Boutique Live\Studio\obj\Debug\Views\Public\Invoice.g.cs
+E:\Personal Projects\Boutique Live\Studio\obj\Debug\Views\Public\UpdateSettings.g.cs
+E:\Personal Projects\Boutique Live\Studio\obj\Debug\Views\Public\StitchingWindow.g.cs
+E:\Personal Projects\Boutique Live\Studio\obj\Debug\Views\Public\NewMeasurement.g.cs
+E:\Personal Projects\Boutique Live\Studio\obj\Debug\Views\Public\Setting.g.cs
+E:\Personal Projects\Boutique Live\Studio\obj\Debug\Views\Setup\Setup.g.cs
+E:\Personal Projects\Boutique Live\Studio\obj\Debug\Views\Public\Login.g.cs
+E:\Personal Projects\Boutique Live\Studio\obj\Debug\Views\UserControls\AlertBox.g.cs
+E:\Personal Projects\Boutique Live\Studio\obj\Debug\Views\UserControls\BoutiqueDetail.g.cs
+E:\Personal Projects\Boutique Live\Studio\obj\Debug\Views\UserControls\ChangePassword.g.cs
+E:\Personal Projects\Boutique Live\Studio\obj\Debug\Views\UserControls\UserDetail.g.cs
+E:\Personal Projects\Boutique Live\Studio\obj\Debug\App.g.cs
+E:\Personal Projects\Boutique Live\Studio\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Personal Projects\Boutique Live\Studio\obj\Debug\com.boutique_MarkupCompile.cache
+E:\Personal Projects\Boutique Live\Studio\obj\Debug\com.boutique_MarkupCompile.lref
+E:\Personal Projects\Boutique Live\Studio\obj\Debug\App.baml
+E:\Personal Projects\Boutique Live\Studio\obj\Debug\Views\Reports\Reports.baml
+E:\Personal Projects\Boutique Live\Studio\obj\Debug\Views\Order\Order.baml
+E:\Personal Projects\Boutique Live\Studio\obj\Debug\Views\Public\Invoice.baml
+E:\Personal Projects\Boutique Live\Studio\obj\Debug\Views\Public\UpdateSettings.baml
+E:\Personal Projects\Boutique Live\Studio\obj\Debug\Views\Public\StitchingWindow.baml
+E:\Personal Projects\Boutique Live\Studio\obj\Debug\Views\Public\NewMeasurement.baml
+E:\Personal Projects\Boutique Live\Studio\obj\Debug\Views\Public\Setting.baml
+E:\Personal Projects\Boutique Live\Studio\obj\Debug\Views\Setup\Setup.baml
+E:\Personal Projects\Boutique Live\Studio\obj\Debug\Views\Public\Login.baml
+E:\Personal Projects\Boutique Live\Studio\obj\Debug\Views\UserControls\BoutiqueDetail.baml
+E:\Personal Projects\Boutique Live\Studio\obj\Debug\Views\UserControls\ChangePassword.baml
+E:\Personal Projects\Boutique Live\Studio\obj\Debug\Views\UserControls\UserDetail.baml
+E:\Personal Projects\Boutique Live\Studio\obj\Debug\com.boutique.g.resources
+E:\Personal Projects\Boutique Live\Studio\obj\Debug\com.boutique.Properties.Resources.resources
+E:\Personal Projects\Boutique Live\Studio\obj\Debug\com.boutique.csproj.GenerateResource.Cache
+E:\Personal Projects\Boutique Live\Studio\obj\Debug\com.boutique.exe.manifest
+E:\Personal Projects\Boutique Live\Studio\obj\Debug\com.boutique.application
+E:\Personal Projects\Boutique Live\Studio\obj\Debug\com.boutique.exe
+E:\Personal Projects\Boutique Live\Studio\obj\Debug\com.boutique.pdb

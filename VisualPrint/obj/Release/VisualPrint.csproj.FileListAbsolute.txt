@@ -1,0 +1,11 @@
+E:\Personal Projects\Studio_23_Feb\VisualPrint\bin\Release\VisualPrint.dll
+E:\Personal Projects\Studio_23_Feb\VisualPrint\bin\Release\VisualPrint.pdb
+E:\Personal Projects\Studio_23_Feb\VisualPrint\obj\Release\PreviewWindow.baml
+E:\Personal Projects\Studio_23_Feb\VisualPrint\obj\Release\Style.baml
+E:\Personal Projects\Studio_23_Feb\VisualPrint\obj\Release\PreviewWindow.g.cs
+E:\Personal Projects\Studio_23_Feb\VisualPrint\obj\Release\VisualPrint_MarkupCompile.cache
+E:\Personal Projects\Studio_23_Feb\VisualPrint\obj\Release\VisualPrint.g.resources
+E:\Personal Projects\Studio_23_Feb\VisualPrint\obj\Release\VisualPrint.Properties.Resources.resources
+E:\Personal Projects\Studio_23_Feb\VisualPrint\obj\Release\VisualPrint.csproj.GenerateResource.Cache
+E:\Personal Projects\Studio_23_Feb\VisualPrint\obj\Release\VisualPrint.dll
+E:\Personal Projects\Studio_23_Feb\VisualPrint\obj\Release\VisualPrint.pdb

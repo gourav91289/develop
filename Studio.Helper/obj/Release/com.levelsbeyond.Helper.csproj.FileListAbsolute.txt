@@ -1,0 +1,6 @@
+D:\DesktopApp\liveStudio7\Studio\Studio.Helper\bin\Release\Studio.Helper.dll
+D:\DesktopApp\liveStudio7\Studio\Studio.Helper\bin\Release\Studio.Helper.pdb
+D:\DesktopApp\liveStudio7\Studio\Studio.Helper\bin\Release\Newtonsoft.Json.dll
+D:\DesktopApp\liveStudio7\Studio\Studio.Helper\bin\Release\Newtonsoft.Json.xml
+D:\DesktopApp\liveStudio7\Studio\Studio.Helper\obj\Release\Studio.Helper.dll
+D:\DesktopApp\liveStudio7\Studio\Studio.Helper\obj\Release\Studio.Helper.pdb

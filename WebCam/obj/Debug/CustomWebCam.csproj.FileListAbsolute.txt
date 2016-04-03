@@ -1,0 +1,11 @@
+D:\DesktopApp\Personal\Studio\WebCam\bin\Debug\CustomWebCam.dll
+D:\DesktopApp\Personal\Studio\WebCam\bin\Debug\CustomWebCam.pdb
+D:\DesktopApp\Personal\Studio\WebCam\bin\Debug\WebCam_Capture.dll
+D:\DesktopApp\Personal\Studio\WebCam\obj\Debug\CustomStitchingImage.g.cs
+D:\DesktopApp\Personal\Studio\WebCam\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\DesktopApp\Personal\Studio\WebCam\obj\Debug\CustomWebCam_MarkupCompile.cache
+D:\DesktopApp\Personal\Studio\WebCam\obj\Debug\CustomWebCam_MarkupCompile.lref
+D:\DesktopApp\Personal\Studio\WebCam\obj\Debug\CustomStitchingImage.baml
+D:\DesktopApp\Personal\Studio\WebCam\obj\Debug\CustomWebCam.g.resources
+D:\DesktopApp\Personal\Studio\WebCam\obj\Debug\CustomWebCam.dll
+D:\DesktopApp\Personal\Studio\WebCam\obj\Debug\CustomWebCam.pdb

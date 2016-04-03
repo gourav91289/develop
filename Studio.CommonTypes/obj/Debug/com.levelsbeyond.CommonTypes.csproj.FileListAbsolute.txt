@@ -1,0 +1,9 @@
+E:\DesktopApp\liveStudio7\Studio\Studio.CommonTypes\bin\Debug\Studio.CommonTypes.dll
+E:\DesktopApp\liveStudio7\Studio\Studio.CommonTypes\bin\Debug\Studio.CommonTypes.pdb
+E:\DesktopApp\liveStudio7\Studio\Studio.CommonTypes\obj\Debug\Studio.CommonTypes.dll
+E:\DesktopApp\liveStudio7\Studio\Studio.CommonTypes\obj\Debug\Studio.CommonTypes.pdb
+D:\DesktopApp\liveStudio7\Studio\Studio.CommonTypes\bin\Debug\Studio.CommonTypes.dll
+D:\DesktopApp\liveStudio7\Studio\Studio.CommonTypes\bin\Debug\Studio.CommonTypes.pdb
+D:\DesktopApp\liveStudio7\Studio\Studio.CommonTypes\obj\Debug\Studio.CommonTypes.dll
+D:\DesktopApp\liveStudio7\Studio\Studio.CommonTypes\obj\Debug\Studio.CommonTypes.pdb
+D:\DesktopApp\liveStudio7\Studio\Studio.CommonTypes\obj\Debug\com.levelsbeyond.CommonTypes.csprojResolveAssemblyReference.cache

@@ -1,0 +1,47 @@
+D:\DesktopApp\Personal\Studio\Studio.Data\bin\Release\Studio.Data.dll.config
+D:\DesktopApp\Personal\Studio\Studio.Data\bin\Release\Studio.Data.dll
+D:\DesktopApp\Personal\Studio\Studio.Data\bin\Release\Studio.Data.pdb
+D:\DesktopApp\Personal\Studio\Studio.Data\bin\Release\EntityFramework.dll
+D:\DesktopApp\Personal\Studio\Studio.Data\bin\Release\EntityFramework.SqlServer.dll
+D:\DesktopApp\Personal\Studio\Studio.Data\bin\Release\Repository.dll
+D:\DesktopApp\Personal\Studio\Studio.Data\bin\Release\Studio.Entity.dll
+D:\DesktopApp\Personal\Studio\Studio.Data\bin\Release\Newtonsoft.Json.dll
+D:\DesktopApp\Personal\Studio\Studio.Data\bin\Release\Studio.Helper.dll
+D:\DesktopApp\Personal\Studio\Studio.Data\bin\Release\Repository.pdb
+D:\DesktopApp\Personal\Studio\Studio.Data\bin\Release\Studio.Entity.pdb
+D:\DesktopApp\Personal\Studio\Studio.Data\bin\Release\EntityFramework.xml
+D:\DesktopApp\Personal\Studio\Studio.Data\bin\Release\EntityFramework.SqlServer.xml
+D:\DesktopApp\Personal\Studio\Studio.Data\bin\Release\Newtonsoft.Json.xml
+D:\DesktopApp\Personal\Studio\Studio.Data\bin\Release\Studio.Helper.pdb
+D:\DesktopApp\Personal\Studio\Studio.Data\obj\Release\com.boutique.Data.csprojResolveAssemblyReference.cache
+D:\DesktopApp\Personal\Studio\Studio.Data\obj\Release\com.boutique.Data.Migrations.InitialCreate.resources
+D:\DesktopApp\Personal\Studio\Studio.Data\obj\Release\com.boutique.Data.Migrations.Alter_Table_User.resources
+D:\DesktopApp\Personal\Studio\Studio.Data\obj\Release\com.boutique.Data.Migrations.Alter_Table_Add_BoutiqueId.resources
+D:\DesktopApp\Personal\Studio\Studio.Data\obj\Release\com.boutique.Data.csproj.GenerateResource.Cache
+D:\DesktopApp\Personal\Studio\Studio.Data\obj\Release\Studio.Data.dll
+D:\DesktopApp\Personal\Studio\Studio.Data\obj\Release\Studio.Data.pdb
+E:\Personal Projects\Studio_23_Feb\Studio.Data\bin\Release\Studio.Data.dll.config
+E:\Personal Projects\Studio_23_Feb\Studio.Data\bin\Release\Studio.Data.dll
+E:\Personal Projects\Studio_23_Feb\Studio.Data\bin\Release\Studio.Data.pdb
+E:\Personal Projects\Studio_23_Feb\Studio.Data\bin\Release\EntityFramework.dll
+E:\Personal Projects\Studio_23_Feb\Studio.Data\bin\Release\EntityFramework.SqlServer.dll
+E:\Personal Projects\Studio_23_Feb\Studio.Data\bin\Release\Repository.dll
+E:\Personal Projects\Studio_23_Feb\Studio.Data\bin\Release\Studio.Entity.dll
+E:\Personal Projects\Studio_23_Feb\Studio.Data\bin\Release\CapturedImages.dll
+E:\Personal Projects\Studio_23_Feb\Studio.Data\bin\Release\Newtonsoft.Json.dll
+E:\Personal Projects\Studio_23_Feb\Studio.Data\bin\Release\Studio.Helper.dll
+E:\Personal Projects\Studio_23_Feb\Studio.Data\bin\Release\WebCam_Capture.dll
+E:\Personal Projects\Studio_23_Feb\Studio.Data\bin\Release\Repository.pdb
+E:\Personal Projects\Studio_23_Feb\Studio.Data\bin\Release\Studio.Entity.pdb
+E:\Personal Projects\Studio_23_Feb\Studio.Data\bin\Release\EntityFramework.xml
+E:\Personal Projects\Studio_23_Feb\Studio.Data\bin\Release\EntityFramework.SqlServer.xml
+E:\Personal Projects\Studio_23_Feb\Studio.Data\bin\Release\Newtonsoft.Json.xml
+E:\Personal Projects\Studio_23_Feb\Studio.Data\bin\Release\Studio.Helper.pdb
+E:\Personal Projects\Studio_23_Feb\Studio.Data\obj\Release\com.boutique.Data.csprojResolveAssemblyReference.cache
+E:\Personal Projects\Studio_23_Feb\Studio.Data\obj\Release\com.boutique.Data.Migrations.InitialCreate.resources
+E:\Personal Projects\Studio_23_Feb\Studio.Data\obj\Release\com.boutique.Data.Migrations.Alter_Table_User.resources
+E:\Personal Projects\Studio_23_Feb\Studio.Data\obj\Release\com.boutique.Data.Migrations.Alter_Table_Add_BoutiqueId.resources
+E:\Personal Projects\Studio_23_Feb\Studio.Data\obj\Release\com.boutique.Data.Migrations.update_parameter_types.resources
+E:\Personal Projects\Studio_23_Feb\Studio.Data\obj\Release\com.boutique.Data.csproj.GenerateResource.Cache
+E:\Personal Projects\Studio_23_Feb\Studio.Data\obj\Release\Studio.Data.dll
+E:\Personal Projects\Studio_23_Feb\Studio.Data\obj\Release\Studio.Data.pdb

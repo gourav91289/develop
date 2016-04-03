@@ -1,0 +1,4 @@
+D:\DesktopApp\liveStudio7\Studio\Studio.CommonTypes\bin\Release\Studio.CommonTypes.dll
+D:\DesktopApp\liveStudio7\Studio\Studio.CommonTypes\bin\Release\Studio.CommonTypes.pdb
+D:\DesktopApp\liveStudio7\Studio\Studio.CommonTypes\obj\Release\Studio.CommonTypes.dll
+D:\DesktopApp\liveStudio7\Studio\Studio.CommonTypes\obj\Release\Studio.CommonTypes.pdb

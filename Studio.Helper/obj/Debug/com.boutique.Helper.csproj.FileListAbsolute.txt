@@ -1,0 +1,28 @@
+D:\DesktopApp\Personal\Studio\Studio.Helper\bin\Debug\Studio.Helper.dll
+D:\DesktopApp\Personal\Studio\Studio.Helper\bin\Debug\Studio.Helper.pdb
+D:\DesktopApp\Personal\Studio\Studio.Helper\bin\Debug\Newtonsoft.Json.dll
+D:\DesktopApp\Personal\Studio\Studio.Helper\bin\Debug\Newtonsoft.Json.xml
+D:\DesktopApp\Personal\Studio\Studio.Helper\obj\Debug\Studio.Helper.dll
+D:\DesktopApp\Personal\Studio\Studio.Helper\obj\Debug\Studio.Helper.pdb
+D:\DesktopApp\Personal\Studio\Studio.Helper\obj\Debug\com.boutique.Helper.csprojResolveAssemblyReference.cache
+E:\Personal\Studio_23_Feb\Studio.Helper\bin\Debug\Studio.Helper.dll
+E:\Personal\Studio_23_Feb\Studio.Helper\bin\Debug\Studio.Helper.pdb
+E:\Personal\Studio_23_Feb\Studio.Helper\bin\Debug\Newtonsoft.Json.dll
+E:\Personal\Studio_23_Feb\Studio.Helper\bin\Debug\Newtonsoft.Json.xml
+E:\Personal\Studio_23_Feb\Studio.Helper\obj\Debug\com.boutique.Helper.csprojResolveAssemblyReference.cache
+E:\Personal\Studio_23_Feb\Studio.Helper\obj\Debug\Studio.Helper.dll
+E:\Personal\Studio_23_Feb\Studio.Helper\obj\Debug\Studio.Helper.pdb
+E:\Personal Projects\Studio_23_Feb\Studio.Helper\bin\Debug\Studio.Helper.dll
+E:\Personal Projects\Studio_23_Feb\Studio.Helper\bin\Debug\Studio.Helper.pdb
+E:\Personal Projects\Studio_23_Feb\Studio.Helper\bin\Debug\Newtonsoft.Json.dll
+E:\Personal Projects\Studio_23_Feb\Studio.Helper\bin\Debug\Newtonsoft.Json.xml
+E:\Personal Projects\Studio_23_Feb\Studio.Helper\obj\Debug\com.boutique.Helper.csprojResolveAssemblyReference.cache
+E:\Personal Projects\Studio_23_Feb\Studio.Helper\obj\Debug\Studio.Helper.dll
+E:\Personal Projects\Studio_23_Feb\Studio.Helper\obj\Debug\Studio.Helper.pdb
+E:\Personal Projects\Boutique Live\Studio.Helper\bin\Debug\Studio.Helper.dll
+E:\Personal Projects\Boutique Live\Studio.Helper\bin\Debug\Studio.Helper.pdb
+E:\Personal Projects\Boutique Live\Studio.Helper\bin\Debug\Newtonsoft.Json.dll
+E:\Personal Projects\Boutique Live\Studio.Helper\bin\Debug\Newtonsoft.Json.xml
+E:\Personal Projects\Boutique Live\Studio.Helper\obj\Debug\com.boutique.Helper.csprojResolveAssemblyReference.cache
+E:\Personal Projects\Boutique Live\Studio.Helper\obj\Debug\Studio.Helper.dll
+E:\Personal Projects\Boutique Live\Studio.Helper\obj\Debug\Studio.Helper.pdb

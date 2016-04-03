@@ -1,0 +1,12 @@
+E:\DesktopApp\liveStudio7\Studio\Studio.Helper\bin\Debug\Studio.Helper.dll
+E:\DesktopApp\liveStudio7\Studio\Studio.Helper\bin\Debug\Studio.Helper.pdb
+E:\DesktopApp\liveStudio7\Studio\Studio.Helper\bin\Debug\Newtonsoft.Json.dll
+E:\DesktopApp\liveStudio7\Studio\Studio.Helper\bin\Debug\Newtonsoft.Json.xml
+E:\DesktopApp\liveStudio7\Studio\Studio.Helper\obj\Debug\Studio.Helper.dll
+E:\DesktopApp\liveStudio7\Studio\Studio.Helper\obj\Debug\Studio.Helper.pdb
+D:\DesktopApp\liveStudio7\Studio\Studio.Helper\bin\Debug\Studio.Helper.dll
+D:\DesktopApp\liveStudio7\Studio\Studio.Helper\bin\Debug\Studio.Helper.pdb
+D:\DesktopApp\liveStudio7\Studio\Studio.Helper\bin\Debug\Newtonsoft.Json.dll
+D:\DesktopApp\liveStudio7\Studio\Studio.Helper\bin\Debug\Newtonsoft.Json.xml
+D:\DesktopApp\liveStudio7\Studio\Studio.Helper\obj\Debug\Studio.Helper.dll
+D:\DesktopApp\liveStudio7\Studio\Studio.Helper\obj\Debug\Studio.Helper.pdb

@@ -1,0 +1,9 @@
+D:\DesktopApp\Personal\Studio\Studio.CommonTypes\bin\Release\Studio.CommonTypes.dll
+D:\DesktopApp\Personal\Studio\Studio.CommonTypes\bin\Release\Studio.CommonTypes.pdb
+D:\DesktopApp\Personal\Studio\Studio.CommonTypes\obj\Release\com.boutique.CommonTypes.csprojResolveAssemblyReference.cache
+D:\DesktopApp\Personal\Studio\Studio.CommonTypes\obj\Release\Studio.CommonTypes.dll
+D:\DesktopApp\Personal\Studio\Studio.CommonTypes\obj\Release\Studio.CommonTypes.pdb
+E:\Personal Projects\Studio_23_Feb\Studio.CommonTypes\bin\Release\Studio.CommonTypes.dll
+E:\Personal Projects\Studio_23_Feb\Studio.CommonTypes\bin\Release\Studio.CommonTypes.pdb
+E:\Personal Projects\Studio_23_Feb\Studio.CommonTypes\obj\Release\Studio.CommonTypes.dll
+E:\Personal Projects\Studio_23_Feb\Studio.CommonTypes\obj\Release\Studio.CommonTypes.pdb

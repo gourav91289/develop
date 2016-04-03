@@ -1,0 +1,12 @@
+D:\DesktopApp\Personal\Studio\Studio.Helper\bin\Release\Studio.Helper.dll
+D:\DesktopApp\Personal\Studio\Studio.Helper\bin\Release\Studio.Helper.pdb
+D:\DesktopApp\Personal\Studio\Studio.Helper\bin\Release\Newtonsoft.Json.dll
+D:\DesktopApp\Personal\Studio\Studio.Helper\bin\Release\Newtonsoft.Json.xml
+D:\DesktopApp\Personal\Studio\Studio.Helper\obj\Release\Studio.Helper.dll
+D:\DesktopApp\Personal\Studio\Studio.Helper\obj\Release\Studio.Helper.pdb
+E:\Personal Projects\Studio_23_Feb\Studio.Helper\bin\Release\Studio.Helper.dll
+E:\Personal Projects\Studio_23_Feb\Studio.Helper\bin\Release\Studio.Helper.pdb
+E:\Personal Projects\Studio_23_Feb\Studio.Helper\bin\Release\Newtonsoft.Json.dll
+E:\Personal Projects\Studio_23_Feb\Studio.Helper\bin\Release\Newtonsoft.Json.xml
+E:\Personal Projects\Studio_23_Feb\Studio.Helper\obj\Release\Studio.Helper.dll
+E:\Personal Projects\Studio_23_Feb\Studio.Helper\obj\Release\Studio.Helper.pdb

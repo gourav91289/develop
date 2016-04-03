@@ -1,0 +1,92 @@
+C:\SW\VisualPrint\VisualPrint\obj\Debug\ResolveAssemblyReference.cache
+C:\SW\VisualPrint\VisualPrint\obj\Debug\VisualPrint.Properties.Resources.resources
+C:\SW\VisualPrint\VisualPrint\obj\Debug\GenerateResource.read.1.tlog
+C:\SW\VisualPrint\VisualPrint\obj\Debug\GenerateResource.write.1.tlog
+C:\SW\VisualPrint\VisualPrint\bin\Debug\VisualPrint.dll
+C:\SW\VisualPrint\VisualPrint\bin\Debug\VisualPrint.pdb
+C:\SW\VisualPrint\VisualPrint\obj\Debug\PreviewWindow.baml
+C:\SW\VisualPrint\VisualPrint\obj\Debug\PrintControl.baml
+C:\SW\VisualPrint\VisualPrint\obj\Debug\Style.baml
+C:\SW\VisualPrint\VisualPrint\obj\Debug\PreviewWindow.g.cs
+C:\SW\VisualPrint\VisualPrint\obj\Debug\PrintControl.g.cs
+C:\SW\VisualPrint\VisualPrint\obj\Debug\PrintWindow.g.cs
+C:\SW\VisualPrint\VisualPrint\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\SW\VisualPrint\VisualPrint\obj\Debug\VisualPrint_MarkupCompile.cache
+C:\SW\VisualPrint\VisualPrint\obj\Debug\VisualPrint_MarkupCompile.lref
+C:\SW\VisualPrint\VisualPrint\obj\Debug\PrintWindow.baml
+C:\SW\VisualPrint\VisualPrint\obj\Debug\VisualPrint.g.resources
+C:\SW\VisualPrint\VisualPrint\obj\Debug\VisualPrint.dll
+C:\SW\VisualPrint\VisualPrint\obj\Debug\VisualPrint.pdb
+H:\VisualPrint\VisualPrint\bin\Debug\VisualPrint.dll
+H:\VisualPrint\VisualPrint\bin\Debug\VisualPrint.pdb
+H:\VisualPrint\VisualPrint\obj\Debug\ResolveAssemblyReference.cache
+H:\VisualPrint\VisualPrint\obj\Debug\PreviewWindow.baml
+H:\VisualPrint\VisualPrint\obj\Debug\Style.baml
+H:\VisualPrint\VisualPrint\obj\Debug\PreviewWindow.g.cs
+H:\VisualPrint\VisualPrint\obj\Debug\VisualPrint_MarkupCompile.cache
+H:\VisualPrint\VisualPrint\obj\Debug\VisualPrint.g.resources
+H:\VisualPrint\VisualPrint\obj\Debug\VisualPrint.Properties.Resources.resources
+H:\VisualPrint\VisualPrint\obj\Debug\VisualPrint.dll
+H:\VisualPrint\VisualPrint\obj\Debug\VisualPrint.pdb
+H:\VisualPrint\VisualPrint\obj\Debug\GenerateResource.read.1.tlog
+H:\VisualPrint\VisualPrint\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\arun.thakur\Downloads\VisualPrint\VisualPrint\bin\Debug\VisualPrint.dll
+C:\Users\arun.thakur\Downloads\VisualPrint\VisualPrint\bin\Debug\VisualPrint.pdb
+C:\Users\arun.thakur\Downloads\VisualPrint\VisualPrint\obj\Debug\VisualPrint.csprojResolveAssemblyReference.cache
+C:\Users\arun.thakur\Downloads\VisualPrint\VisualPrint\obj\Debug\PreviewWindow.baml
+C:\Users\arun.thakur\Downloads\VisualPrint\VisualPrint\obj\Debug\Style.baml
+C:\Users\arun.thakur\Downloads\VisualPrint\VisualPrint\obj\Debug\PreviewWindow.g.cs
+C:\Users\arun.thakur\Downloads\VisualPrint\VisualPrint\obj\Debug\VisualPrint_MarkupCompile.cache
+C:\Users\arun.thakur\Downloads\VisualPrint\VisualPrint\obj\Debug\VisualPrint.g.resources
+C:\Users\arun.thakur\Downloads\VisualPrint\VisualPrint\obj\Debug\VisualPrint.Properties.Resources.resources
+C:\Users\arun.thakur\Downloads\VisualPrint\VisualPrint\obj\Debug\VisualPrint.csproj.GenerateResource.Cache
+C:\Users\arun.thakur\Downloads\VisualPrint\VisualPrint\obj\Debug\VisualPrint.dll
+C:\Users\arun.thakur\Downloads\VisualPrint\VisualPrint\obj\Debug\VisualPrint.pdb
+D:\DesktopApp\Personal\Studio\VisualPrint\bin\Debug\VisualPrint.dll
+D:\DesktopApp\Personal\Studio\VisualPrint\bin\Debug\VisualPrint.pdb
+D:\DesktopApp\Personal\Studio\VisualPrint\obj\Debug\PreviewWindow.baml
+D:\DesktopApp\Personal\Studio\VisualPrint\obj\Debug\Style.baml
+D:\DesktopApp\Personal\Studio\VisualPrint\obj\Debug\PreviewWindow.g.cs
+D:\DesktopApp\Personal\Studio\VisualPrint\obj\Debug\VisualPrint_MarkupCompile.cache
+D:\DesktopApp\Personal\Studio\VisualPrint\obj\Debug\VisualPrint.g.resources
+D:\DesktopApp\Personal\Studio\VisualPrint\obj\Debug\VisualPrint.Properties.Resources.resources
+D:\DesktopApp\Personal\Studio\VisualPrint\obj\Debug\VisualPrint.csproj.GenerateResource.Cache
+D:\DesktopApp\Personal\Studio\VisualPrint\obj\Debug\VisualPrint.dll
+D:\DesktopApp\Personal\Studio\VisualPrint\obj\Debug\VisualPrint.pdb
+D:\DesktopApp\Personal\Studio\VisualPrint\obj\Debug\VisualPrint.csprojResolveAssemblyReference.cache
+E:\Personal\Studio_23_Feb\VisualPrint\bin\Debug\VisualPrint.dll
+E:\Personal\Studio_23_Feb\VisualPrint\bin\Debug\VisualPrint.pdb
+E:\Personal\Studio_23_Feb\VisualPrint\obj\Debug\VisualPrint.csprojResolveAssemblyReference.cache
+E:\Personal\Studio_23_Feb\VisualPrint\obj\Debug\PreviewWindow.baml
+E:\Personal\Studio_23_Feb\VisualPrint\obj\Debug\Style.baml
+E:\Personal\Studio_23_Feb\VisualPrint\obj\Debug\PreviewWindow.g.cs
+E:\Personal\Studio_23_Feb\VisualPrint\obj\Debug\VisualPrint_MarkupCompile.cache
+E:\Personal\Studio_23_Feb\VisualPrint\obj\Debug\VisualPrint.g.resources
+E:\Personal\Studio_23_Feb\VisualPrint\obj\Debug\VisualPrint.Properties.Resources.resources
+E:\Personal\Studio_23_Feb\VisualPrint\obj\Debug\VisualPrint.csproj.GenerateResource.Cache
+E:\Personal\Studio_23_Feb\VisualPrint\obj\Debug\VisualPrint.dll
+E:\Personal\Studio_23_Feb\VisualPrint\obj\Debug\VisualPrint.pdb
+E:\Personal Projects\Studio_23_Feb\VisualPrint\bin\Debug\VisualPrint.dll
+E:\Personal Projects\Studio_23_Feb\VisualPrint\bin\Debug\VisualPrint.pdb
+E:\Personal Projects\Studio_23_Feb\VisualPrint\obj\Debug\PreviewWindow.baml
+E:\Personal Projects\Studio_23_Feb\VisualPrint\obj\Debug\Style.baml
+E:\Personal Projects\Studio_23_Feb\VisualPrint\obj\Debug\PreviewWindow.g.cs
+E:\Personal Projects\Studio_23_Feb\VisualPrint\obj\Debug\VisualPrint_MarkupCompile.cache
+E:\Personal Projects\Studio_23_Feb\VisualPrint\obj\Debug\VisualPrint.g.resources
+E:\Personal Projects\Studio_23_Feb\VisualPrint\obj\Debug\VisualPrint.Properties.Resources.resources
+E:\Personal Projects\Studio_23_Feb\VisualPrint\obj\Debug\VisualPrint.csproj.GenerateResource.Cache
+E:\Personal Projects\Studio_23_Feb\VisualPrint\obj\Debug\VisualPrint.dll
+E:\Personal Projects\Studio_23_Feb\VisualPrint\obj\Debug\VisualPrint.pdb
+E:\Personal Projects\Studio_23_Feb\VisualPrint\obj\Debug\VisualPrint.csprojResolveAssemblyReference.cache
+E:\Personal Projects\Boutique Live\VisualPrint\bin\Debug\VisualPrint.dll
+E:\Personal Projects\Boutique Live\VisualPrint\bin\Debug\VisualPrint.pdb
+E:\Personal Projects\Boutique Live\VisualPrint\obj\Debug\VisualPrint.csprojResolveAssemblyReference.cache
+E:\Personal Projects\Boutique Live\VisualPrint\obj\Debug\PreviewWindow.baml
+E:\Personal Projects\Boutique Live\VisualPrint\obj\Debug\Style.baml
+E:\Personal Projects\Boutique Live\VisualPrint\obj\Debug\PreviewWindow.g.cs
+E:\Personal Projects\Boutique Live\VisualPrint\obj\Debug\VisualPrint_MarkupCompile.cache
+E:\Personal Projects\Boutique Live\VisualPrint\obj\Debug\VisualPrint.g.resources
+E:\Personal Projects\Boutique Live\VisualPrint\obj\Debug\VisualPrint.Properties.Resources.resources
+E:\Personal Projects\Boutique Live\VisualPrint\obj\Debug\VisualPrint.csproj.GenerateResource.Cache
+E:\Personal Projects\Boutique Live\VisualPrint\obj\Debug\VisualPrint.dll
+E:\Personal Projects\Boutique Live\VisualPrint\obj\Debug\VisualPrint.pdb

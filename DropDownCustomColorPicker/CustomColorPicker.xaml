@@ -1,0 +1,54 @@
+﻿<UserControl 
+    x:Name="ColorPicker"
+    x:Class="DropDownCustomColorPicker.CustomColorPicker"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+    xmlns:mun="clr-namespace:Microsoft.Windows.Themes;assembly=PresentationFramework.Royale" 
+    xmlns:d ="clr-namespace:DropDownCustomColorPicker"
+    xmlns:s="clr-namespace:System;assembly=mscorlib">
+    <UserControl.Resources>
+       
+    </UserControl.Resources>
+    <Grid>
+
+        <Border Name="borderColor" BorderThickness="1" Background="#2D2D30"
+                Padding="10,5,5,5" BorderBrush="#434346" 
+                CornerRadius="2" VerticalAlignment="Center">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="3*" />
+                    <ColumnDefinition Width="1*"/>
+                </Grid.ColumnDefinitions>
+
+                <StackPanel Name="StackPanelSoryByArea" Orientation="Horizontal" 
+                    HorizontalAlignment="Left" VerticalAlignment="Center"
+                    Grid.Column="0">
+
+                    <TextBlock x:Name="colorName" FontFamily="Open Sans"                                     
+                      Foreground="White" FontSize="13"
+                      Text="{Binding ColorText, UpdateSourceTrigger=PropertyChanged}">
+                    </TextBlock>
+
+                    <Rectangle Width="15" Height="15" Stroke="Transparent" Name="recContent" HorizontalAlignment="Center" 
+                      Margin="5,0,0,0" Visibility="Collapsed"/>
+                </StackPanel>
+
+                <StackPanel  Grid.Column="1">
+                    <Image Source="/CustomColorPicker;component/dropdown.png" Width="15" HorizontalAlignment="Right"
+                    VerticalAlignment="Center"></Image>
+                </StackPanel>
+
+            </Grid>
+            
+        </Border>
+
+        <Popup IsOpen="False" PopupAnimation="Slide" AllowsTransparency="True" 
+                   StaysOpen="False" HorizontalAlignment="Center" 
+                   PlacementTarget="{Binding ElementName=borderColor}"
+                   x:Name="popupColorSelector"
+                    LostKeyboardFocus="popupColorSelector_LostKeyboardFocus">
+            <d:ColorPicker x:Name="cp" ></d:ColorPicker>
+        </Popup>
+    </Grid>
+    
+</UserControl>
